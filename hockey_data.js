@@ -29,14 +29,46 @@ NHL_API_URLS = {
     }
 }
 
-console.log(date)
-console.log(NHL_API_URLS.teams.baseURL)
+async function allSeasons() {
+    let currentYear = new Date().getFullYear()
+    for (i = 1980; i < currentYear; i++) {
+        let years = `${i}${i+1}`
+        console.log(years)
+        let result = await fetch(`https://statsapi.web.nhl.com/api/v1/teams?expand=team.stats&season=${years}`);
+        console.log(result.status)
+        if (result.status == 404) {
+            console.log('hoho')
+            break;
+            // console.log(result)
+        }
+        let data = await result.json()
+        const folder = path.join(`${DATA_UPDATE_PATH}/teams`, years) 
+        if(!fs.existsSync(folder)) {
+            try {
+                fs.mkdirSync(folder, { recursive: true })
+                console.log('created!')
+            } catch(err) {
+                console.log('what')
+                console.log(err)
+            }
+        }
+        try {
+            fs.writeFileSync(path.join(folder,`${date}.json`), JSON.stringify(data));
+            // fs.writeFileSync(path.join(folder,`why.json`), JSON.stringify(mia));
+            console.log('dododododo')
+            // break;
+        } catch(error) {
+            console.log(error)
+        }
+
+    }
+}
+allSeasons()
 
 async function teamStats() {
-    result = await fetch(`https://statsapi.web.nhl.com/api/v1/teams?expand=team.stats`);
-    let mia = await result.json();
+    let result = await fetch(`https://statsapi.web.nhl.com/api/v1/teams?expand=team.stats`);
+    let data = await result.json();
     const folder = path.join(`${DATA_UPDATE_PATH}/teams`) //${date}.json`);
-    console.log(mia)
     // while(true) {
     if(!fs.existsSync(folder)) {
         try {
@@ -48,7 +80,7 @@ async function teamStats() {
         }
     }
     try {
-        fs.writeFileSync(path.join(folder,`${date}.json`), JSON.stringify(mia));
+        fs.writeFileSync(path.join(folder,`${date}.json`), JSON.stringify(data));
         // fs.writeFileSync(path.join(folder,`why.json`), JSON.stringify(mia));
         console.log('dododododo')
         // break;
@@ -58,7 +90,8 @@ async function teamStats() {
 // }
     console.log('beee')
 }
-teamStats()
+// teamStats()
+
 
 console.log('hm')
 const fetch_retry = async (url, options, n) => {
