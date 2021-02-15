@@ -1,6 +1,9 @@
 name: Fetch Updates
 
 on:
+  push:
+    branches: 
+      - main
   schedule:
     - cron: '0 0 * * *'
 jobs:
