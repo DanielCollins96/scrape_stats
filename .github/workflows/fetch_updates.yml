@@ -18,5 +18,7 @@ jobs:
       - run: node hockey_data.js
       - name: Push new files back to master.
         uses: mikeal/publish-to-github-action@1.0.0
+        env: 
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # GitHub sets this for you
 
       
