@@ -1,6 +1,7 @@
 const fetch = require('node-fetch');
 const fs = require('fs');
 const path = require('path');
+const hash = require('object-hash');
 
 
 const DATA_UPDATE_PATH = path.join(__dirname, 'NHL')
@@ -63,7 +64,7 @@ async function allSeasons() {
 
     }
 }
-allSeasons()
+// allSeasons()
 
 async function teamStats() {
     let result = await fetch(`https://statsapi.web.nhl.com/api/v1/teams?expand=team.stats`);
@@ -90,7 +91,7 @@ async function teamStats() {
 // }
     console.log('beee')
 }
-// teamStats()
+teamStats()
 
 
 console.log('hm')

@@ -9,7 +9,7 @@
         "name": "Prudential Center",
         "link": "/api/v1/venues/null",
         "city": "Newark",
-        "timeZone": { "id": "America/New_York", "offset": -5, "tz": "EST" }
+        "timeZone": { "id": "America/New_York", "offset": -4, "tz": "EDT" }
       },
       "abbreviation": "NJD",
       "teamName": "Devils",
@@ -128,10 +128,10 @@
       "name": "New York Islanders",
       "link": "/api/v1/teams/2",
       "venue": {
-        "name": "NYCB Live/Nassau Coliseum",
+        "name": "Nassau Veterans Memorial Coliseum",
         "link": "/api/v1/venues/null",
         "city": "Uniondale",
-        "timeZone": { "id": "America/New_York", "offset": -5, "tz": "EST" }
+        "timeZone": { "id": "America/New_York", "offset": -4, "tz": "EDT" }
       },
       "abbreviation": "NYI",
       "teamName": "Islanders",
@@ -254,7 +254,7 @@
         "name": "Madison Square Garden",
         "link": "/api/v1/venues/5054",
         "city": "New York",
-        "timeZone": { "id": "America/New_York", "offset": -5, "tz": "EST" }
+        "timeZone": { "id": "America/New_York", "offset": -4, "tz": "EDT" }
       },
       "abbreviation": "NYR",
       "teamName": "Rangers",
@@ -377,7 +377,7 @@
         "name": "Wells Fargo Center",
         "link": "/api/v1/venues/5096",
         "city": "Philadelphia",
-        "timeZone": { "id": "America/New_York", "offset": -5, "tz": "EST" }
+        "timeZone": { "id": "America/New_York", "offset": -4, "tz": "EDT" }
       },
       "abbreviation": "PHI",
       "teamName": "Flyers",
@@ -500,7 +500,7 @@
         "name": "PPG Paints Arena",
         "link": "/api/v1/venues/5034",
         "city": "Pittsburgh",
-        "timeZone": { "id": "America/New_York", "offset": -5, "tz": "EST" }
+        "timeZone": { "id": "America/New_York", "offset": -4, "tz": "EDT" }
       },
       "abbreviation": "PIT",
       "teamName": "Penguins",
@@ -623,7 +623,7 @@
         "name": "TD Garden",
         "link": "/api/v1/venues/5085",
         "city": "Boston",
-        "timeZone": { "id": "America/New_York", "offset": -5, "tz": "EST" }
+        "timeZone": { "id": "America/New_York", "offset": -4, "tz": "EDT" }
       },
       "abbreviation": "BOS",
       "teamName": "Bruins",
@@ -746,7 +746,7 @@
         "name": "KeyBank Center",
         "link": "/api/v1/venues/5039",
         "city": "Buffalo",
-        "timeZone": { "id": "America/New_York", "offset": -5, "tz": "EST" }
+        "timeZone": { "id": "America/New_York", "offset": -4, "tz": "EDT" }
       },
       "abbreviation": "BUF",
       "teamName": "Sabres",
@@ -869,7 +869,7 @@
         "name": "Bell Centre",
         "link": "/api/v1/venues/5028",
         "city": "Montréal",
-        "timeZone": { "id": "America/Montreal", "offset": -5, "tz": "EST" }
+        "timeZone": { "id": "America/Montreal", "offset": -4, "tz": "EDT" }
       },
       "abbreviation": "MTL",
       "teamName": "Canadiens",
@@ -992,7 +992,7 @@
         "name": "Canadian Tire Centre",
         "link": "/api/v1/venues/5031",
         "city": "Ottawa",
-        "timeZone": { "id": "America/New_York", "offset": -5, "tz": "EST" }
+        "timeZone": { "id": "America/New_York", "offset": -4, "tz": "EDT" }
       },
       "abbreviation": "OTT",
       "teamName": "Senators",
@@ -1114,7 +1114,7 @@
         "name": "Scotiabank Arena",
         "link": "/api/v1/venues/null",
         "city": "Toronto",
-        "timeZone": { "id": "America/Toronto", "offset": -5, "tz": "EST" }
+        "timeZone": { "id": "America/Toronto", "offset": -4, "tz": "EDT" }
       },
       "abbreviation": "TOR",
       "teamName": "Maple Leafs",
@@ -1237,7 +1237,7 @@
         "name": "PNC Arena",
         "link": "/api/v1/venues/5066",
         "city": "Raleigh",
-        "timeZone": { "id": "America/New_York", "offset": -5, "tz": "EST" }
+        "timeZone": { "id": "America/New_York", "offset": -4, "tz": "EDT" }
       },
       "abbreviation": "CAR",
       "teamName": "Hurricanes",
@@ -1360,7 +1360,7 @@
         "name": "BB&T Center",
         "link": "/api/v1/venues/5027",
         "city": "Sunrise",
-        "timeZone": { "id": "America/New_York", "offset": -5, "tz": "EST" }
+        "timeZone": { "id": "America/New_York", "offset": -4, "tz": "EDT" }
       },
       "abbreviation": "FLA",
       "teamName": "Panthers",
@@ -1482,7 +1482,7 @@
         "name": "AMALIE Arena",
         "link": "/api/v1/venues/null",
         "city": "Tampa",
-        "timeZone": { "id": "America/New_York", "offset": -5, "tz": "EST" }
+        "timeZone": { "id": "America/New_York", "offset": -4, "tz": "EDT" }
       },
       "abbreviation": "TBL",
       "teamName": "Lightning",
@@ -1605,7 +1605,7 @@
         "name": "Capital One Arena",
         "link": "/api/v1/venues/5094",
         "city": "Washington",
-        "timeZone": { "id": "America/New_York", "offset": -5, "tz": "EST" }
+        "timeZone": { "id": "America/New_York", "offset": -4, "tz": "EDT" }
       },
       "abbreviation": "WSH",
       "teamName": "Capitals",
@@ -1728,7 +1728,7 @@
         "name": "United Center",
         "link": "/api/v1/venues/5092",
         "city": "Chicago",
-        "timeZone": { "id": "America/Chicago", "offset": -6, "tz": "CST" }
+        "timeZone": { "id": "America/Chicago", "offset": -5, "tz": "CDT" }
       },
       "abbreviation": "CHI",
       "teamName": "Blackhawks",
@@ -1847,7 +1847,7 @@
         "name": "Little Caesars Arena",
         "link": "/api/v1/venues/5145",
         "city": "Detroit",
-        "timeZone": { "id": "America/Detroit", "offset": -5, "tz": "EST" }
+        "timeZone": { "id": "America/Detroit", "offset": -4, "tz": "EDT" }
       },
       "abbreviation": "DET",
       "teamName": "Red Wings",
@@ -1966,7 +1966,7 @@
         "name": "Bridgestone Arena",
         "link": "/api/v1/venues/5030",
         "city": "Nashville",
-        "timeZone": { "id": "America/Chicago", "offset": -6, "tz": "CST" }
+        "timeZone": { "id": "America/Chicago", "offset": -5, "tz": "CDT" }
       },
       "abbreviation": "NSH",
       "teamName": "Predators",
@@ -2085,7 +2085,7 @@
         "name": "Enterprise Center",
         "link": "/api/v1/venues/5076",
         "city": "St. Louis",
-        "timeZone": { "id": "America/Chicago", "offset": -6, "tz": "CST" }
+        "timeZone": { "id": "America/Chicago", "offset": -5, "tz": "CDT" }
       },
       "abbreviation": "STL",
       "teamName": "Blues",
@@ -2204,7 +2204,7 @@
         "name": "Scotiabank Saddledome",
         "link": "/api/v1/venues/5075",
         "city": "Calgary",
-        "timeZone": { "id": "America/Denver", "offset": -7, "tz": "MST" }
+        "timeZone": { "id": "America/Denver", "offset": -6, "tz": "MDT" }
       },
       "abbreviation": "CGY",
       "teamName": "Flames",
@@ -2327,7 +2327,7 @@
         "name": "Ball Arena",
         "link": "/api/v1/venues/5064",
         "city": "Denver",
-        "timeZone": { "id": "America/Denver", "offset": -7, "tz": "MST" }
+        "timeZone": { "id": "America/Denver", "offset": -6, "tz": "MDT" }
       },
       "abbreviation": "COL",
       "teamName": "Avalanche",
@@ -2450,7 +2450,7 @@
         "name": "Rogers Place",
         "link": "/api/v1/venues/5100",
         "city": "Edmonton",
-        "timeZone": { "id": "America/Edmonton", "offset": -7, "tz": "MST" }
+        "timeZone": { "id": "America/Edmonton", "offset": -6, "tz": "MDT" }
       },
       "abbreviation": "EDM",
       "teamName": "Oilers",
@@ -2573,7 +2573,7 @@
         "name": "Rogers Arena",
         "link": "/api/v1/venues/5073",
         "city": "Vancouver",
-        "timeZone": { "id": "America/Vancouver", "offset": -8, "tz": "PST" }
+        "timeZone": { "id": "America/Vancouver", "offset": -7, "tz": "PDT" }
       },
       "abbreviation": "VAN",
       "teamName": "Canucks",
@@ -2696,7 +2696,7 @@
         "name": "Honda Center",
         "link": "/api/v1/venues/5046",
         "city": "Anaheim",
-        "timeZone": { "id": "America/Los_Angeles", "offset": -8, "tz": "PST" }
+        "timeZone": { "id": "America/Los_Angeles", "offset": -7, "tz": "PDT" }
       },
       "abbreviation": "ANA",
       "teamName": "Ducks",
@@ -2815,7 +2815,7 @@
         "name": "American Airlines Center",
         "link": "/api/v1/venues/5019",
         "city": "Dallas",
-        "timeZone": { "id": "America/Chicago", "offset": -6, "tz": "CST" }
+        "timeZone": { "id": "America/Chicago", "offset": -5, "tz": "CDT" }
       },
       "abbreviation": "DAL",
       "teamName": "Stars",
@@ -2934,7 +2934,7 @@
         "name": "STAPLES Center",
         "link": "/api/v1/venues/5081",
         "city": "Los Angeles",
-        "timeZone": { "id": "America/Los_Angeles", "offset": -8, "tz": "PST" }
+        "timeZone": { "id": "America/Los_Angeles", "offset": -7, "tz": "PDT" }
       },
       "abbreviation": "LAK",
       "teamName": "Kings",
@@ -3170,7 +3170,7 @@
         "name": "SAP Center at San Jose",
         "link": "/api/v1/venues/null",
         "city": "San Jose",
-        "timeZone": { "id": "America/Los_Angeles", "offset": -8, "tz": "PST" }
+        "timeZone": { "id": "America/Los_Angeles", "offset": -7, "tz": "PDT" }
       },
       "abbreviation": "SJS",
       "teamName": "Sharks",
@@ -3289,7 +3289,7 @@
         "name": "Nationwide Arena",
         "link": "/api/v1/venues/5059",
         "city": "Columbus",
-        "timeZone": { "id": "America/New_York", "offset": -5, "tz": "EST" }
+        "timeZone": { "id": "America/New_York", "offset": -4, "tz": "EDT" }
       },
       "abbreviation": "CBJ",
       "teamName": "Blue Jackets",
@@ -3408,7 +3408,7 @@
         "name": "Xcel Energy Center",
         "link": "/api/v1/venues/5098",
         "city": "St. Paul",
-        "timeZone": { "id": "America/Chicago", "offset": -6, "tz": "CST" }
+        "timeZone": { "id": "America/Chicago", "offset": -5, "tz": "CDT" }
       },
       "abbreviation": "MIN",
       "teamName": "Wild",
@@ -3531,7 +3531,7 @@
         "name": "Bell MTS Place",
         "link": "/api/v1/venues/5058",
         "city": "Winnipeg",
-        "timeZone": { "id": "America/Winnipeg", "offset": -6, "tz": "CST" }
+        "timeZone": { "id": "America/Winnipeg", "offset": -5, "tz": "CDT" }
       },
       "abbreviation": "WPG",
       "teamName": "Jets",
