@@ -10,10 +10,13 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      # - name: Checkout
+      - name: Checkout
       - uses: actions/checkout@v2
-      # - name Setup Node
+      - name: Setup Node
       - uses: actions/setup-node@v1
       - run: yarn
       - run: node hockey_data.js
+      - name: Push new files back to master.
+        uses: mikeal/publish-to-github-action@1.0.0
+
       
