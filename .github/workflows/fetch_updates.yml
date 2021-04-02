@@ -11,9 +11,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-      - uses: actions/checkout@v2
+        uses: actions/checkout@v2
       - name: Setup Node
-      - uses: actions/setup-node@v1
+        uses: actions/setup-node@v1
       - run: yarn
       - run: node hockey_data.js
       - name: Push new files back to master.
