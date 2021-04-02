@@ -54,17 +54,33 @@ async function allSeasons() {
             }
         }
         try {
-            fs.writeFileSync(path.join(folder,`${date}.json`), JSON.stringify(data));
-            // fs.writeFileSync(path.join(folder,`why.json`), JSON.stringify(mia));
+            console.log(`NHL/teams/${years}`);
+            let filenames = fs.readdirSync(`NHL/teams/${years}`)
+            if (filenames.length == 0 ) {
+                fs.writeFileSync(path.join(folder,`${date}.json`), JSON.stringify(data));
+            }
+            filenames.forEach((file) => {
+                if (file) {
+                    let saved_data = fs.readFileSync(`NHL/teams/${years}/${file}`);
+                    if (hash(JSON.parse(saved_data)) !== hash(data)) {
+                        console.log('change');
+                        console.log(hash(JSON.parse(saved_data)));
+                        console.log(hash(data))
+                        fs.writeFileSync(path.join(folder,`${date}.json`), JSON.stringify(data));
+                    } else {
+                        console.log('it matched')
+                    }
+
+                }
+            })
             console.log('dododododo')
-            // break;
         } catch(error) {
             console.log(error)
         }
 
     }
 }
-// allSeasons()
+allSeasons()
 
 async function teamStats() {
     let result = await fetch(`https://statsapi.web.nhl.com/api/v1/teams?expand=team.stats`);
@@ -81,17 +97,31 @@ async function teamStats() {
         }
     }
     try {
-        fs.writeFileSync(path.join(folder,`${date}.json`), JSON.stringify(data));
-        // fs.writeFileSync(path.join(folder,`why.json`), JSON.stringify(mia));
+        // fs.writeFileSync(path.join(folder,`${date}.json`), JSON.stringify(data));
+        fs.writeFileSync(path.join(folder,`why3.json`), JSON.stringify(data.teams));
         console.log('dododododo')
+        console.log(hash(data))
+        console.log(hash(data.teams))
+
+        console.log('roc in this ma');
+        const val = fs.readFileSync('NHL/teams/today.json')
+        const d = JSON.parse(val)
+        fs.writeFileSync(path.join(folder,`why2.json`), JSON.stringify(d.teams));
+        console.log(hash(d.teams));
+        if (JSON.stringify(d.teams) === JSON.stringify(data.teams)) {
+            console.log('trapppppppp');
+
+        }
         // break;
     } catch(error) {
+        console.log('dambwoi')
         console.log(error)
     }
 // }
+
     console.log('beee')
 }
-teamStats()
+// teamStats()
 
 
 console.log('hm')
