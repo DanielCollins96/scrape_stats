@@ -32,14 +32,14 @@ NHL_API_URLS = {
 
 async function allSeasons() {
     let currentYear = new Date().getFullYear()
-    for (i = 1980; i < currentYear; i++) {
+    for (i = 1916; i < currentYear; i++) {
         let years = `${i}${i+1}`
         console.log(years)
         let result = await fetch(`https://statsapi.web.nhl.com/api/v1/teams?expand=team.stats&season=${years}`);
         console.log(result.status)
         if (result.status == 404) {
             console.log('hoho')
-            break;
+            continue;
             // console.log(result)
         }
         let data = await result.json()
