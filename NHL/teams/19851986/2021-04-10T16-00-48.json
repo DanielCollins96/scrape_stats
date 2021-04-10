@@ -1,0 +1,2621 @@
+{
+    "copyright": "NHL and the NHL Shield are registered trademarks of the National Hockey League. NHL and NHL team marks are the property of the NHL and its teams. © NHL 2021. All Rights Reserved.",
+    "teams": [
+        {
+            "id": 32,
+            "name": "Quebec Nordiques",
+            "link": "/api/v1/teams/32",
+            "abbreviation": "QUE",
+            "teamName": "Nordiques",
+            "locationName": "Quebec",
+            "firstYearOfPlay": "1979",
+            "division": {
+                "id": 11,
+                "name": "Adams",
+                "link": "/api/v1/divisions/11"
+            },
+            "conference": {
+                "id": 3,
+                "name": "Prince of Wales",
+                "link": "/api/v1/conferences/3"
+            },
+            "franchise": {
+                "franchiseId": 27,
+                "teamName": "Avalanche",
+                "link": "/api/v1/franchises/27"
+            },
+            "teamStats": [
+                {
+                    "type": {
+                        "displayName": "statsSingleSeason",
+                        "gameType": {
+                            "id": "R",
+                            "description": "Regular season",
+                            "postseason": false
+                        }
+                    },
+                    "splits": [
+                        {
+                            "stat": {
+                                "gamesPlayed": 80,
+                                "wins": 43,
+                                "losses": 31,
+                                "ot": 0,
+                                "pts": 92,
+                                "ptPctg": "57.5",
+                                "goalsPerGame": 4.125,
+                                "goalsAgainstPerGame": 3.613,
+                                "evGGARatio": 1.133,
+                                "powerPlayPercentage": "23.6",
+                                "powerPlayGoals": 99,
+                                "powerPlayGoalsAgainst": 71,
+                                "powerPlayOpportunities": 419,
+                                "penaltyKillPercentage": "81.3",
+                                "shotsPerGame": 32.35,
+                                "shotsAllowed": 29.9375,
+                                "winScoreFirst": 0.643,
+                                "winOppScoreFirst": 0.421,
+                                "winLeadFirstPer": 0.735,
+                                "winLeadSecondPer": 0.821,
+                                "winOutshootOpp": 0.622,
+                                "winOutshotByOpp": 0.56,
+                                "faceOffsTaken": 0,
+                                "faceOffsWon": 0,
+                                "faceOffsLost": 0,
+                                "faceOffWinPercentage": "0.0",
+                                "shootingPctg": 12.8,
+                                "savePctg": 0.879
+                            },
+                            "team": {
+                                "id": 32,
+                                "name": "Quebec Nordiques",
+                                "link": "/api/v1/teams/32"
+                            }
+                        },
+                        {
+                            "stat": {
+                                "wins": "4th",
+                                "losses": "5th",
+                                "ot": "4th",
+                                "pts": "4th",
+                                "ptPctg": "4th",
+                                "goalsPerGame": "6th",
+                                "goalsAgainstPerGame": "7th",
+                                "evGGARatio": "5th",
+                                "powerPlayPercentage": "7th",
+                                "powerPlayGoals": "1st",
+                                "powerPlayGoalsAgainst": "5th",
+                                "powerPlayOpportunities": "2nd",
+                                "penaltyKillOpportunities": "13th",
+                                "penaltyKillPercentage": "2nd",
+                                "shotsPerGame": "5th",
+                                "shotsAllowed": "8th",
+                                "winScoreFirst": "6th",
+                                "winOppScoreFirst": "3rd",
+                                "winLeadFirstPer": "14th",
+                                "winLeadSecondPer": "16th",
+                                "winOutshootOpp": "6th",
+                                "winOutshotByOpp": "6th",
+                                "faceOffsTaken": "4th",
+                                "faceOffsWon": "4th",
+                                "faceOffsLost": "4th",
+                                "faceOffWinPercentage": "4th",
+                                "savePctRank": "7th",
+                                "shootingPctRank": "9th"
+                            },
+                            "team": {
+                                "id": 32,
+                                "name": "Quebec Nordiques",
+                                "link": "/api/v1/teams/32"
+                            }
+                        }
+                    ]
+                }
+            ],
+            "shortName": "Quebec",
+            "franchiseId": 27,
+            "active": false
+        },
+        {
+            "id": 33,
+            "name": "Winnipeg Jets (1979)",
+            "link": "/api/v1/teams/33",
+            "abbreviation": "WIN",
+            "teamName": "Jets",
+            "locationName": "Winnipeg",
+            "firstYearOfPlay": "1979",
+            "division": {
+                "id": 14,
+                "name": "Smythe",
+                "link": "/api/v1/divisions/14"
+            },
+            "conference": {
+                "id": 4,
+                "name": "Clarence Campbell",
+                "link": "/api/v1/conferences/4"
+            },
+            "franchise": {
+                "franchiseId": 28,
+                "teamName": "Coyotes",
+                "link": "/api/v1/franchises/28"
+            },
+            "teamStats": [
+                {
+                    "type": {
+                        "displayName": "statsSingleSeason",
+                        "gameType": {
+                            "id": "R",
+                            "description": "Regular season",
+                            "postseason": false
+                        }
+                    },
+                    "splits": [
+                        {
+                            "stat": {
+                                "gamesPlayed": 80,
+                                "wins": 26,
+                                "losses": 47,
+                                "ot": 0,
+                                "pts": 59,
+                                "ptPctg": "36.9",
+                                "goalsPerGame": 3.688,
+                                "goalsAgainstPerGame": 4.65,
+                                "evGGARatio": 0.7586,
+                                "powerPlayPercentage": "20.2",
+                                "powerPlayGoals": 72,
+                                "powerPlayGoalsAgainst": 84,
+                                "powerPlayOpportunities": 356,
+                                "penaltyKillPercentage": "74.9",
+                                "shotsPerGame": 31.8375,
+                                "shotsAllowed": 29.925,
+                                "winScoreFirst": 0.364,
+                                "winOppScoreFirst": 0.298,
+                                "winLeadFirstPer": 0.567,
+                                "winLeadSecondPer": 0.81,
+                                "winOutshootOpp": 0.447,
+                                "winOutshotByOpp": 0.235,
+                                "faceOffsTaken": 0,
+                                "faceOffsWon": 0,
+                                "faceOffsLost": 0,
+                                "faceOffWinPercentage": "0.0",
+                                "shootingPctg": 11.6,
+                                "savePctg": 0.845
+                            },
+                            "team": {
+                                "id": 33,
+                                "name": "Winnipeg Jets (1979)",
+                                "link": "/api/v1/teams/33"
+                            }
+                        },
+                        {
+                            "stat": {
+                                "wins": "17th",
+                                "losses": "17th",
+                                "ot": "17th",
+                                "pts": "17th",
+                                "ptPctg": "17th",
+                                "goalsPerGame": "17th",
+                                "goalsAgainstPerGame": "17th",
+                                "evGGARatio": "19th",
+                                "powerPlayPercentage": "17th",
+                                "powerPlayGoals": "18th",
+                                "powerPlayGoalsAgainst": "15th",
+                                "powerPlayOpportunities": "16th",
+                                "penaltyKillOpportunities": "4th",
+                                "penaltyKillPercentage": "18th",
+                                "shotsPerGame": "7th",
+                                "shotsAllowed": "7th",
+                                "winScoreFirst": "19th",
+                                "winOppScoreFirst": "9th",
+                                "winLeadFirstPer": "19th",
+                                "winLeadSecondPer": "18th",
+                                "winOutshootOpp": "17th",
+                                "winOutshotByOpp": "17th",
+                                "faceOffsTaken": "18th",
+                                "faceOffsWon": "18th",
+                                "faceOffsLost": "18th",
+                                "faceOffWinPercentage": "18th",
+                                "savePctRank": "20th",
+                                "shootingPctRank": "20th"
+                            },
+                            "team": {
+                                "id": 33,
+                                "name": "Winnipeg Jets (1979)",
+                                "link": "/api/v1/teams/33"
+                            }
+                        }
+                    ]
+                }
+            ],
+            "shortName": "Winnipeg",
+            "franchiseId": 28,
+            "active": false
+        },
+        {
+            "id": 1,
+            "name": "New Jersey Devils",
+            "link": "/api/v1/teams/1",
+            "venue": {
+                "name": "Prudential Center",
+                "link": "/api/v1/venues/null",
+                "city": "Newark",
+                "timeZone": {
+                    "id": "America/New_York",
+                    "offset": -4,
+                    "tz": "EDT"
+                }
+            },
+            "abbreviation": "NJD",
+            "teamName": "Devils",
+            "locationName": "New Jersey",
+            "firstYearOfPlay": "1982",
+            "division": {
+                "id": 13,
+                "name": "Patrick",
+                "link": "/api/v1/divisions/13"
+            },
+            "conference": {
+                "id": 3,
+                "name": "Prince of Wales",
+                "link": "/api/v1/conferences/3"
+            },
+            "franchise": {
+                "franchiseId": 23,
+                "teamName": "Devils",
+                "link": "/api/v1/franchises/23"
+            },
+            "teamStats": [
+                {
+                    "type": {
+                        "displayName": "statsSingleSeason",
+                        "gameType": {
+                            "id": "R",
+                            "description": "Regular season",
+                            "postseason": false
+                        }
+                    },
+                    "splits": [
+                        {
+                            "stat": {
+                                "gamesPlayed": 80,
+                                "wins": 28,
+                                "losses": 49,
+                                "ot": 0,
+                                "pts": 59,
+                                "ptPctg": "36.9",
+                                "goalsPerGame": 3.75,
+                                "goalsAgainstPerGame": 4.675,
+                                "evGGARatio": 0.848,
+                                "powerPlayPercentage": "19.6",
+                                "powerPlayGoals": 70,
+                                "powerPlayGoalsAgainst": 103,
+                                "powerPlayOpportunities": 358,
+                                "penaltyKillPercentage": "74.2",
+                                "shotsPerGame": 29.175,
+                                "shotsAllowed": 31.1625,
+                                "winScoreFirst": 0.444,
+                                "winOppScoreFirst": 0.273,
+                                "winLeadFirstPer": 0.571,
+                                "winLeadSecondPer": 0.652,
+                                "winOutshootOpp": 0.371,
+                                "winOutshotByOpp": 0.375,
+                                "faceOffsTaken": 0,
+                                "faceOffsWon": 0,
+                                "faceOffsLost": 0,
+                                "faceOffWinPercentage": "0.0",
+                                "shootingPctg": 12.9,
+                                "savePctg": 0.85
+                            },
+                            "team": {
+                                "id": 1,
+                                "name": "New Jersey Devils",
+                                "link": "/api/v1/teams/1"
+                            }
+                        },
+                        {
+                            "stat": {
+                                "wins": "16th",
+                                "losses": "19th",
+                                "ot": "18th",
+                                "pts": "18th",
+                                "ptPctg": "18th",
+                                "goalsPerGame": "15th",
+                                "goalsAgainstPerGame": "18th",
+                                "evGGARatio": "16th",
+                                "powerPlayPercentage": "19th",
+                                "powerPlayGoals": "19th",
+                                "powerPlayGoalsAgainst": "19th",
+                                "powerPlayOpportunities": "15th",
+                                "penaltyKillOpportunities": "17th",
+                                "penaltyKillPercentage": "19th",
+                                "shotsPerGame": "20th",
+                                "shotsAllowed": "12th",
+                                "winScoreFirst": "16th",
+                                "winOppScoreFirst": "14th",
+                                "winLeadFirstPer": "18th",
+                                "winLeadSecondPer": "21st",
+                                "winOutshootOpp": "19th",
+                                "winOutshotByOpp": "19th",
+                                "faceOffsTaken": "16th",
+                                "faceOffsWon": "16th",
+                                "faceOffsLost": "16th",
+                                "faceOffWinPercentage": "16th",
+                                "savePctRank": "19th",
+                                "shootingPctRank": "8th"
+                            },
+                            "team": {
+                                "id": 1,
+                                "name": "New Jersey Devils",
+                                "link": "/api/v1/teams/1"
+                            }
+                        }
+                    ]
+                }
+            ],
+            "shortName": "New Jersey",
+            "officialSiteUrl": "http://www.newjerseydevils.com/",
+            "franchiseId": 23,
+            "active": true
+        },
+        {
+            "id": 34,
+            "name": "Hartford Whalers",
+            "link": "/api/v1/teams/34",
+            "abbreviation": "HFD",
+            "teamName": "Whalers",
+            "locationName": "Hartford",
+            "firstYearOfPlay": "1979",
+            "division": {
+                "id": 11,
+                "name": "Adams",
+                "link": "/api/v1/divisions/11"
+            },
+            "conference": {
+                "id": 3,
+                "name": "Prince of Wales",
+                "link": "/api/v1/conferences/3"
+            },
+            "franchise": {
+                "franchiseId": 26,
+                "teamName": "Hurricanes",
+                "link": "/api/v1/franchises/26"
+            },
+            "teamStats": [
+                {
+                    "type": {
+                        "displayName": "statsSingleSeason",
+                        "gameType": {
+                            "id": "R",
+                            "description": "Regular season",
+                            "postseason": false
+                        }
+                    },
+                    "splits": [
+                        {
+                            "stat": {
+                                "gamesPlayed": 80,
+                                "wins": 40,
+                                "losses": 36,
+                                "ot": 0,
+                                "pts": 84,
+                                "ptPctg": "52.5",
+                                "goalsPerGame": 4.15,
+                                "goalsAgainstPerGame": 3.775,
+                                "evGGARatio": 1.087,
+                                "powerPlayPercentage": "22.1",
+                                "powerPlayGoals": 83,
+                                "powerPlayGoalsAgainst": 72,
+                                "powerPlayOpportunities": 376,
+                                "penaltyKillPercentage": "80.4",
+                                "shotsPerGame": 29.5875,
+                                "shotsAllowed": 28.7,
+                                "winScoreFirst": 0.659,
+                                "winOppScoreFirst": 0.333,
+                                "winLeadFirstPer": 0.833,
+                                "winLeadSecondPer": 0.935,
+                                "winOutshootOpp": 0.605,
+                                "winOutshotByOpp": 0.485,
+                                "faceOffsTaken": 0,
+                                "faceOffsWon": 0,
+                                "faceOffsLost": 0,
+                                "faceOffWinPercentage": "0.0",
+                                "shootingPctg": 14,
+                                "savePctg": 0.868
+                            },
+                            "team": {
+                                "id": 34,
+                                "name": "Hartford Whalers",
+                                "link": "/api/v1/teams/34"
+                            }
+                        },
+                        {
+                            "stat": {
+                                "wins": "7th",
+                                "losses": "12th",
+                                "ot": "11th",
+                                "pts": "11th",
+                                "ptPctg": "11th",
+                                "goalsPerGame": "5th",
+                                "goalsAgainstPerGame": "10th",
+                                "evGGARatio": "9th",
+                                "powerPlayPercentage": "12th",
+                                "powerPlayGoals": "10th",
+                                "powerPlayGoalsAgainst": "7th",
+                                "powerPlayOpportunities": "9th",
+                                "penaltyKillOpportunities": "12th",
+                                "penaltyKillPercentage": "6th",
+                                "shotsPerGame": "16th",
+                                "shotsAllowed": "4th",
+                                "winScoreFirst": "9th",
+                                "winOppScoreFirst": "11th",
+                                "winLeadFirstPer": "6th",
+                                "winLeadSecondPer": "6th",
+                                "winOutshootOpp": "9th",
+                                "winOutshotByOpp": "9th",
+                                "faceOffsTaken": "11th",
+                                "faceOffsWon": "11th",
+                                "faceOffsLost": "11th",
+                                "faceOffWinPercentage": "11th",
+                                "savePctRank": "14th",
+                                "shootingPctRank": "3rd"
+                            },
+                            "team": {
+                                "id": 34,
+                                "name": "Hartford Whalers",
+                                "link": "/api/v1/teams/34"
+                            }
+                        }
+                    ]
+                }
+            ],
+            "shortName": "Hartford",
+            "franchiseId": 26,
+            "active": false
+        },
+        {
+            "id": 2,
+            "name": "New York Islanders",
+            "link": "/api/v1/teams/2",
+            "venue": {
+                "name": "Nassau Veterans Memorial Coliseum",
+                "link": "/api/v1/venues/null",
+                "city": "Uniondale",
+                "timeZone": {
+                    "id": "America/New_York",
+                    "offset": -4,
+                    "tz": "EDT"
+                }
+            },
+            "abbreviation": "NYI",
+            "teamName": "Islanders",
+            "locationName": "New York",
+            "firstYearOfPlay": "1972",
+            "division": {
+                "id": 13,
+                "name": "Patrick",
+                "link": "/api/v1/divisions/13"
+            },
+            "conference": {
+                "id": 3,
+                "name": "Prince of Wales",
+                "link": "/api/v1/conferences/3"
+            },
+            "franchise": {
+                "franchiseId": 22,
+                "teamName": "Islanders",
+                "link": "/api/v1/franchises/22"
+            },
+            "teamStats": [
+                {
+                    "type": {
+                        "displayName": "statsSingleSeason",
+                        "gameType": {
+                            "id": "R",
+                            "description": "Regular season",
+                            "postseason": false
+                        }
+                    },
+                    "splits": [
+                        {
+                            "stat": {
+                                "gamesPlayed": 80,
+                                "wins": 39,
+                                "losses": 29,
+                                "ot": 0,
+                                "pts": 90,
+                                "ptPctg": "56.3",
+                                "goalsPerGame": 4.088,
+                                "goalsAgainstPerGame": 3.55,
+                                "evGGARatio": 1.2513,
+                                "powerPlayPercentage": "22.7",
+                                "powerPlayGoals": 73,
+                                "powerPlayGoalsAgainst": 77,
+                                "powerPlayOpportunities": 321,
+                                "penaltyKillPercentage": "78.4",
+                                "shotsPerGame": 29.4,
+                                "shotsAllowed": 33.2375,
+                                "winScoreFirst": 0.595,
+                                "winOppScoreFirst": 0.368,
+                                "winLeadFirstPer": 0.767,
+                                "winLeadSecondPer": 0.861,
+                                "winOutshootOpp": 0.714,
+                                "winOutshotByOpp": 0.488,
+                                "faceOffsTaken": 0,
+                                "faceOffsWon": 0,
+                                "faceOffsLost": 0,
+                                "faceOffWinPercentage": "0.0",
+                                "shootingPctg": 13.9,
+                                "savePctg": 0.893
+                            },
+                            "team": {
+                                "id": 2,
+                                "name": "New York Islanders",
+                                "link": "/api/v1/teams/2"
+                            }
+                        },
+                        {
+                            "stat": {
+                                "wins": "8th",
+                                "losses": "4th",
+                                "ot": "5th",
+                                "pts": "5th",
+                                "ptPctg": "5th",
+                                "goalsPerGame": "8th",
+                                "goalsAgainstPerGame": "5th",
+                                "evGGARatio": "3rd",
+                                "powerPlayPercentage": "9th",
+                                "powerPlayGoals": "15th",
+                                "powerPlayGoalsAgainst": "10th",
+                                "powerPlayOpportunities": "20th",
+                                "penaltyKillOpportunities": "8th",
+                                "penaltyKillPercentage": "10th",
+                                "shotsPerGame": "19th",
+                                "shotsAllowed": "17th",
+                                "winScoreFirst": "10th",
+                                "winOppScoreFirst": "6th",
+                                "winLeadFirstPer": "11th",
+                                "winLeadSecondPer": "14th",
+                                "winOutshootOpp": "3rd",
+                                "winOutshotByOpp": "3rd",
+                                "faceOffsTaken": "5th",
+                                "faceOffsWon": "5th",
+                                "faceOffsLost": "5th",
+                                "faceOffWinPercentage": "5th",
+                                "savePctRank": "2nd",
+                                "shootingPctRank": "4th"
+                            },
+                            "team": {
+                                "id": 2,
+                                "name": "New York Islanders",
+                                "link": "/api/v1/teams/2"
+                            }
+                        }
+                    ]
+                }
+            ],
+            "shortName": "NY Islanders",
+            "officialSiteUrl": "http://www.newyorkislanders.com/",
+            "franchiseId": 22,
+            "active": true
+        },
+        {
+            "id": 3,
+            "name": "New York Rangers",
+            "link": "/api/v1/teams/3",
+            "venue": {
+                "id": 5054,
+                "name": "Madison Square Garden",
+                "link": "/api/v1/venues/5054",
+                "city": "New York",
+                "timeZone": {
+                    "id": "America/New_York",
+                    "offset": -4,
+                    "tz": "EDT"
+                }
+            },
+            "abbreviation": "NYR",
+            "teamName": "Rangers",
+            "locationName": "New York",
+            "firstYearOfPlay": "1926",
+            "division": {
+                "id": 13,
+                "name": "Patrick",
+                "link": "/api/v1/divisions/13"
+            },
+            "conference": {
+                "id": 3,
+                "name": "Prince of Wales",
+                "link": "/api/v1/conferences/3"
+            },
+            "franchise": {
+                "franchiseId": 10,
+                "teamName": "Rangers",
+                "link": "/api/v1/franchises/10"
+            },
+            "teamStats": [
+                {
+                    "type": {
+                        "displayName": "statsSingleSeason",
+                        "gameType": {
+                            "id": "R",
+                            "description": "Regular season",
+                            "postseason": false
+                        }
+                    },
+                    "splits": [
+                        {
+                            "stat": {
+                                "gamesPlayed": 80,
+                                "wins": 36,
+                                "losses": 38,
+                                "ot": 0,
+                                "pts": 78,
+                                "ptPctg": "48.8",
+                                "goalsPerGame": 3.5,
+                                "goalsAgainstPerGame": 3.45,
+                                "evGGARatio": 1.0275,
+                                "powerPlayPercentage": "20.1",
+                                "powerPlayGoals": 73,
+                                "powerPlayGoalsAgainst": 81,
+                                "powerPlayOpportunities": 363,
+                                "penaltyKillPercentage": "77.8",
+                                "shotsPerGame": 31.825,
+                                "shotsAllowed": 29.975,
+                                "winScoreFirst": 0.579,
+                                "winOppScoreFirst": 0.333,
+                                "winLeadFirstPer": 0.759,
+                                "winLeadSecondPer": 0.811,
+                                "winOutshootOpp": 0.535,
+                                "winOutshotByOpp": 0.433,
+                                "faceOffsTaken": 0,
+                                "faceOffsWon": 0,
+                                "faceOffsLost": 0,
+                                "faceOffWinPercentage": "0.0",
+                                "shootingPctg": 11,
+                                "savePctg": 0.885
+                            },
+                            "team": {
+                                "id": 3,
+                                "name": "New York Rangers",
+                                "link": "/api/v1/teams/3"
+                            }
+                        },
+                        {
+                            "stat": {
+                                "wins": "14th",
+                                "losses": "14th",
+                                "ot": "14th",
+                                "pts": "14th",
+                                "ptPctg": "14th",
+                                "goalsPerGame": "20th",
+                                "goalsAgainstPerGame": "3rd",
+                                "evGGARatio": "12th",
+                                "powerPlayPercentage": "18th",
+                                "powerPlayGoals": "16th",
+                                "powerPlayGoalsAgainst": "13th",
+                                "powerPlayOpportunities": "12th",
+                                "penaltyKillOpportunities": "9th",
+                                "penaltyKillPercentage": "12th",
+                                "shotsPerGame": "8th",
+                                "shotsAllowed": "9th",
+                                "winScoreFirst": "15th",
+                                "winOppScoreFirst": "8th",
+                                "winLeadFirstPer": "13th",
+                                "winLeadSecondPer": "17th",
+                                "winOutshootOpp": "13th",
+                                "winOutshotByOpp": "13th",
+                                "faceOffsTaken": "14th",
+                                "faceOffsWon": "14th",
+                                "faceOffsLost": "14th",
+                                "faceOffWinPercentage": "14th",
+                                "savePctRank": "6th",
+                                "shootingPctRank": "21st"
+                            },
+                            "team": {
+                                "id": 3,
+                                "name": "New York Rangers",
+                                "link": "/api/v1/teams/3"
+                            }
+                        }
+                    ]
+                }
+            ],
+            "shortName": "NY Rangers",
+            "officialSiteUrl": "http://www.newyorkrangers.com/",
+            "franchiseId": 10,
+            "active": true
+        },
+        {
+            "id": 4,
+            "name": "Philadelphia Flyers",
+            "link": "/api/v1/teams/4",
+            "venue": {
+                "id": 5096,
+                "name": "Wells Fargo Center",
+                "link": "/api/v1/venues/5096",
+                "city": "Philadelphia",
+                "timeZone": {
+                    "id": "America/New_York",
+                    "offset": -4,
+                    "tz": "EDT"
+                }
+            },
+            "abbreviation": "PHI",
+            "teamName": "Flyers",
+            "locationName": "Philadelphia",
+            "firstYearOfPlay": "1967",
+            "division": {
+                "id": 13,
+                "name": "Patrick",
+                "link": "/api/v1/divisions/13"
+            },
+            "conference": {
+                "id": 3,
+                "name": "Prince of Wales",
+                "link": "/api/v1/conferences/3"
+            },
+            "franchise": {
+                "franchiseId": 16,
+                "teamName": "Flyers",
+                "link": "/api/v1/franchises/16"
+            },
+            "teamStats": [
+                {
+                    "type": {
+                        "displayName": "statsSingleSeason",
+                        "gameType": {
+                            "id": "R",
+                            "description": "Regular season",
+                            "postseason": false
+                        }
+                    },
+                    "splits": [
+                        {
+                            "stat": {
+                                "gamesPlayed": 80,
+                                "wins": 53,
+                                "losses": 23,
+                                "ot": 0,
+                                "pts": 110,
+                                "ptPctg": "68.8",
+                                "goalsPerGame": 4.188,
+                                "goalsAgainstPerGame": 3.013,
+                                "evGGARatio": 1.415,
+                                "powerPlayPercentage": "23.6",
+                                "powerPlayGoals": 91,
+                                "powerPlayGoalsAgainst": 71,
+                                "powerPlayOpportunities": 385,
+                                "penaltyKillPercentage": "82.8",
+                                "shotsPerGame": 34.125,
+                                "shotsAllowed": 28.8875,
+                                "winScoreFirst": 0.731,
+                                "winOppScoreFirst": 0.536,
+                                "winLeadFirstPer": 0.865,
+                                "winLeadSecondPer": 0.951,
+                                "winOutshootOpp": 0.72,
+                                "winOutshotByOpp": 0.68,
+                                "faceOffsTaken": 0,
+                                "faceOffsWon": 0,
+                                "faceOffsLost": 0,
+                                "faceOffWinPercentage": "0.0",
+                                "shootingPctg": 12.3,
+                                "savePctg": 0.896
+                            },
+                            "team": {
+                                "id": 4,
+                                "name": "Philadelphia Flyers",
+                                "link": "/api/v1/teams/4"
+                            }
+                        },
+                        {
+                            "stat": {
+                                "wins": "2nd",
+                                "losses": "2nd",
+                                "ot": "2nd",
+                                "pts": "2nd",
+                                "ptPctg": "2nd",
+                                "goalsPerGame": "4th",
+                                "goalsAgainstPerGame": "1st",
+                                "evGGARatio": "2nd",
+                                "powerPlayPercentage": "6th",
+                                "powerPlayGoals": "5th",
+                                "powerPlayGoalsAgainst": "4th",
+                                "powerPlayOpportunities": "6th",
+                                "penaltyKillOpportunities": "20th",
+                                "penaltyKillPercentage": "1st",
+                                "shotsPerGame": "2nd",
+                                "shotsAllowed": "5th",
+                                "winScoreFirst": "1st",
+                                "winOppScoreFirst": "4th",
+                                "winLeadFirstPer": "5th",
+                                "winLeadSecondPer": "2nd",
+                                "winOutshootOpp": "2nd",
+                                "winOutshotByOpp": "2nd",
+                                "faceOffsTaken": "2nd",
+                                "faceOffsWon": "2nd",
+                                "faceOffsLost": "2nd",
+                                "faceOffWinPercentage": "2nd",
+                                "savePctRank": "1st",
+                                "shootingPctRank": "14th"
+                            },
+                            "team": {
+                                "id": 4,
+                                "name": "Philadelphia Flyers",
+                                "link": "/api/v1/teams/4"
+                            }
+                        }
+                    ]
+                }
+            ],
+            "shortName": "Philadelphia",
+            "officialSiteUrl": "http://www.philadelphiaflyers.com/",
+            "franchiseId": 16,
+            "active": true
+        },
+        {
+            "id": 5,
+            "name": "Pittsburgh Penguins",
+            "link": "/api/v1/teams/5",
+            "venue": {
+                "id": 5034,
+                "name": "PPG Paints Arena",
+                "link": "/api/v1/venues/5034",
+                "city": "Pittsburgh",
+                "timeZone": {
+                    "id": "America/New_York",
+                    "offset": -4,
+                    "tz": "EDT"
+                }
+            },
+            "abbreviation": "PIT",
+            "teamName": "Penguins",
+            "locationName": "Pittsburgh",
+            "firstYearOfPlay": "1967",
+            "division": {
+                "id": 13,
+                "name": "Patrick",
+                "link": "/api/v1/divisions/13"
+            },
+            "conference": {
+                "id": 3,
+                "name": "Prince of Wales",
+                "link": "/api/v1/conferences/3"
+            },
+            "franchise": {
+                "franchiseId": 17,
+                "teamName": "Penguins",
+                "link": "/api/v1/franchises/17"
+            },
+            "teamStats": [
+                {
+                    "type": {
+                        "displayName": "statsSingleSeason",
+                        "gameType": {
+                            "id": "R",
+                            "description": "Regular season",
+                            "postseason": false
+                        }
+                    },
+                    "splits": [
+                        {
+                            "stat": {
+                                "gamesPlayed": 80,
+                                "wins": 34,
+                                "losses": 38,
+                                "ot": 0,
+                                "pts": 76,
+                                "ptPctg": "47.5",
+                                "goalsPerGame": 3.913,
+                                "goalsAgainstPerGame": 3.813,
+                                "evGGARatio": 1.0469,
+                                "powerPlayPercentage": "22.5",
+                                "powerPlayGoals": 93,
+                                "powerPlayGoalsAgainst": 78,
+                                "powerPlayOpportunities": 413,
+                                "penaltyKillPercentage": "77.0",
+                                "shotsPerGame": 30.225,
+                                "shotsAllowed": 31.1125,
+                                "winScoreFirst": 0.59,
+                                "winOppScoreFirst": 0.268,
+                                "winLeadFirstPer": 0.76,
+                                "winLeadSecondPer": 0.926,
+                                "winOutshootOpp": 0.563,
+                                "winOutshotByOpp": 0.395,
+                                "faceOffsTaken": 0,
+                                "faceOffsWon": 0,
+                                "faceOffsLost": 0,
+                                "faceOffWinPercentage": "0.0",
+                                "shootingPctg": 12.9,
+                                "savePctg": 0.877
+                            },
+                            "team": {
+                                "id": 5,
+                                "name": "Pittsburgh Penguins",
+                                "link": "/api/v1/teams/5"
+                            }
+                        },
+                        {
+                            "stat": {
+                                "wins": "15th",
+                                "losses": "15th",
+                                "ot": "15th",
+                                "pts": "15th",
+                                "ptPctg": "15th",
+                                "goalsPerGame": "11th",
+                                "goalsAgainstPerGame": "12th",
+                                "evGGARatio": "11th",
+                                "powerPlayPercentage": "11th",
+                                "powerPlayGoals": "3rd",
+                                "powerPlayGoalsAgainst": "11th",
+                                "powerPlayOpportunities": "4th",
+                                "penaltyKillOpportunities": "6th",
+                                "penaltyKillPercentage": "15th",
+                                "shotsPerGame": "14th",
+                                "shotsAllowed": "11th",
+                                "winScoreFirst": "13th",
+                                "winOppScoreFirst": "16th",
+                                "winLeadFirstPer": "12th",
+                                "winLeadSecondPer": "7th",
+                                "winOutshootOpp": "12th",
+                                "winOutshotByOpp": "12th",
+                                "faceOffsTaken": "15th",
+                                "faceOffsWon": "15th",
+                                "faceOffsLost": "15th",
+                                "faceOffWinPercentage": "15th",
+                                "savePctRank": "9th",
+                                "shootingPctRank": "7th"
+                            },
+                            "team": {
+                                "id": 5,
+                                "name": "Pittsburgh Penguins",
+                                "link": "/api/v1/teams/5"
+                            }
+                        }
+                    ]
+                }
+            ],
+            "shortName": "Pittsburgh",
+            "officialSiteUrl": "http://pittsburghpenguins.com/",
+            "franchiseId": 17,
+            "active": true
+        },
+        {
+            "id": 6,
+            "name": "Boston Bruins",
+            "link": "/api/v1/teams/6",
+            "venue": {
+                "id": 5085,
+                "name": "TD Garden",
+                "link": "/api/v1/venues/5085",
+                "city": "Boston",
+                "timeZone": {
+                    "id": "America/New_York",
+                    "offset": -4,
+                    "tz": "EDT"
+                }
+            },
+            "abbreviation": "BOS",
+            "teamName": "Bruins",
+            "locationName": "Boston",
+            "firstYearOfPlay": "1924",
+            "division": {
+                "id": 11,
+                "name": "Adams",
+                "link": "/api/v1/divisions/11"
+            },
+            "conference": {
+                "id": 3,
+                "name": "Prince of Wales",
+                "link": "/api/v1/conferences/3"
+            },
+            "franchise": {
+                "franchiseId": 6,
+                "teamName": "Bruins",
+                "link": "/api/v1/franchises/6"
+            },
+            "teamStats": [
+                {
+                    "type": {
+                        "displayName": "statsSingleSeason",
+                        "gameType": {
+                            "id": "R",
+                            "description": "Regular season",
+                            "postseason": false
+                        }
+                    },
+                    "splits": [
+                        {
+                            "stat": {
+                                "gamesPlayed": 80,
+                                "wins": 37,
+                                "losses": 31,
+                                "ot": 0,
+                                "pts": 86,
+                                "ptPctg": "53.8",
+                                "goalsPerGame": 3.888,
+                                "goalsAgainstPerGame": 3.6,
+                                "evGGARatio": 1.1117,
+                                "powerPlayPercentage": "22.6",
+                                "powerPlayGoals": 95,
+                                "powerPlayGoalsAgainst": 97,
+                                "powerPlayOpportunities": 420,
+                                "penaltyKillPercentage": "76.0",
+                                "shotsPerGame": 30.7625,
+                                "shotsAllowed": 27.2875,
+                                "winScoreFirst": 0.581,
+                                "winOppScoreFirst": 0.324,
+                                "winLeadFirstPer": 0.893,
+                                "winLeadSecondPer": 0.909,
+                                "winOutshootOpp": 0.571,
+                                "winOutshotByOpp": 0.455,
+                                "faceOffsTaken": 0,
+                                "faceOffsWon": 0,
+                                "faceOffsLost": 0,
+                                "faceOffWinPercentage": "0.0",
+                                "shootingPctg": 12.6,
+                                "savePctg": 0.868
+                            },
+                            "team": {
+                                "id": 6,
+                                "name": "Boston Bruins",
+                                "link": "/api/v1/teams/6"
+                            }
+                        },
+                        {
+                            "stat": {
+                                "wins": "11th",
+                                "losses": "7th",
+                                "ot": "8th",
+                                "pts": "8th",
+                                "ptPctg": "8th",
+                                "goalsPerGame": "12th",
+                                "goalsAgainstPerGame": "6th",
+                                "evGGARatio": "6th",
+                                "powerPlayPercentage": "10th",
+                                "powerPlayGoals": "2nd",
+                                "powerPlayGoalsAgainst": "17th",
+                                "powerPlayOpportunities": "1st",
+                                "penaltyKillOpportunities": "18th",
+                                "penaltyKillPercentage": "17th",
+                                "shotsPerGame": "11th",
+                                "shotsAllowed": "2nd",
+                                "winScoreFirst": "11th",
+                                "winOppScoreFirst": "13th",
+                                "winLeadFirstPer": "2nd",
+                                "winLeadSecondPer": "10th",
+                                "winOutshootOpp": "11th",
+                                "winOutshotByOpp": "11th",
+                                "faceOffsTaken": "9th",
+                                "faceOffsWon": "9th",
+                                "faceOffsLost": "9th",
+                                "faceOffWinPercentage": "9th",
+                                "savePctRank": "15th",
+                                "shootingPctRank": "12th"
+                            },
+                            "team": {
+                                "id": 6,
+                                "name": "Boston Bruins",
+                                "link": "/api/v1/teams/6"
+                            }
+                        }
+                    ]
+                }
+            ],
+            "shortName": "Boston",
+            "officialSiteUrl": "http://www.bostonbruins.com/",
+            "franchiseId": 6,
+            "active": true
+        },
+        {
+            "id": 7,
+            "name": "Buffalo Sabres",
+            "link": "/api/v1/teams/7",
+            "venue": {
+                "id": 5039,
+                "name": "KeyBank Center",
+                "link": "/api/v1/venues/5039",
+                "city": "Buffalo",
+                "timeZone": {
+                    "id": "America/New_York",
+                    "offset": -4,
+                    "tz": "EDT"
+                }
+            },
+            "abbreviation": "BUF",
+            "teamName": "Sabres",
+            "locationName": "Buffalo",
+            "firstYearOfPlay": "1970",
+            "division": {
+                "id": 11,
+                "name": "Adams",
+                "link": "/api/v1/divisions/11"
+            },
+            "conference": {
+                "id": 3,
+                "name": "Prince of Wales",
+                "link": "/api/v1/conferences/3"
+            },
+            "franchise": {
+                "franchiseId": 19,
+                "teamName": "Sabres",
+                "link": "/api/v1/franchises/19"
+            },
+            "teamStats": [
+                {
+                    "type": {
+                        "displayName": "statsSingleSeason",
+                        "gameType": {
+                            "id": "R",
+                            "description": "Regular season",
+                            "postseason": false
+                        }
+                    },
+                    "splits": [
+                        {
+                            "stat": {
+                                "gamesPlayed": 80,
+                                "wins": 37,
+                                "losses": 37,
+                                "ot": 0,
+                                "pts": 80,
+                                "ptPctg": "50.0",
+                                "goalsPerGame": 3.7,
+                                "goalsAgainstPerGame": 3.638,
+                                "evGGARatio": 1.0102,
+                                "powerPlayPercentage": "21.6",
+                                "powerPlayGoals": 72,
+                                "powerPlayGoalsAgainst": 66,
+                                "powerPlayOpportunities": 333,
+                                "penaltyKillPercentage": "80.5",
+                                "shotsPerGame": 29.975,
+                                "shotsAllowed": 29.8875,
+                                "winScoreFirst": 0.571,
+                                "winOppScoreFirst": 0.29,
+                                "winLeadFirstPer": 0.667,
+                                "winLeadSecondPer": 0.862,
+                                "winOutshootOpp": 0.583,
+                                "winOutshotByOpp": 0.405,
+                                "faceOffsTaken": 0,
+                                "faceOffsWon": 0,
+                                "faceOffsLost": 0,
+                                "faceOffWinPercentage": "0.0",
+                                "shootingPctg": 12.3,
+                                "savePctg": 0.878
+                            },
+                            "team": {
+                                "id": 7,
+                                "name": "Buffalo Sabres",
+                                "link": "/api/v1/teams/7"
+                            }
+                        },
+                        {
+                            "stat": {
+                                "wins": "13th",
+                                "losses": "13th",
+                                "ot": "13th",
+                                "pts": "13th",
+                                "ptPctg": "13th",
+                                "goalsPerGame": "16th",
+                                "goalsAgainstPerGame": "9th",
+                                "evGGARatio": "14th",
+                                "powerPlayPercentage": "13th",
+                                "powerPlayGoals": "17th",
+                                "powerPlayGoalsAgainst": "2nd",
+                                "powerPlayOpportunities": "18th",
+                                "penaltyKillOpportunities": "5th",
+                                "penaltyKillPercentage": "5th",
+                                "shotsPerGame": "15th",
+                                "shotsAllowed": "6th",
+                                "winScoreFirst": "5th",
+                                "winOppScoreFirst": "17th",
+                                "winLeadFirstPer": "15th",
+                                "winLeadSecondPer": "13th",
+                                "winOutshootOpp": "10th",
+                                "winOutshotByOpp": "10th",
+                                "faceOffsTaken": "13th",
+                                "faceOffsWon": "13th",
+                                "faceOffsLost": "13th",
+                                "faceOffWinPercentage": "13th",
+                                "savePctRank": "8th",
+                                "shootingPctRank": "15th"
+                            },
+                            "team": {
+                                "id": 7,
+                                "name": "Buffalo Sabres",
+                                "link": "/api/v1/teams/7"
+                            }
+                        }
+                    ]
+                }
+            ],
+            "shortName": "Buffalo",
+            "officialSiteUrl": "http://www.sabres.com/",
+            "franchiseId": 19,
+            "active": true
+        },
+        {
+            "id": 8,
+            "name": "Montréal Canadiens",
+            "link": "/api/v1/teams/8",
+            "venue": {
+                "id": 5028,
+                "name": "Bell Centre",
+                "link": "/api/v1/venues/5028",
+                "city": "Montréal",
+                "timeZone": {
+                    "id": "America/Montreal",
+                    "offset": -4,
+                    "tz": "EDT"
+                }
+            },
+            "abbreviation": "MTL",
+            "teamName": "Canadiens",
+            "locationName": "Montréal",
+            "firstYearOfPlay": "1917",
+            "division": {
+                "id": 11,
+                "name": "Adams",
+                "link": "/api/v1/divisions/11"
+            },
+            "conference": {
+                "id": 3,
+                "name": "Prince of Wales",
+                "link": "/api/v1/conferences/3"
+            },
+            "franchise": {
+                "franchiseId": 1,
+                "teamName": "Canadiens",
+                "link": "/api/v1/franchises/1"
+            },
+            "teamStats": [
+                {
+                    "type": {
+                        "displayName": "statsSingleSeason",
+                        "gameType": {
+                            "id": "R",
+                            "description": "Regular season",
+                            "postseason": false
+                        }
+                    },
+                    "splits": [
+                        {
+                            "stat": {
+                                "gamesPlayed": 80,
+                                "wins": 40,
+                                "losses": 33,
+                                "ot": 0,
+                                "pts": 87,
+                                "ptPctg": "54.4",
+                                "goalsPerGame": 4.125,
+                                "goalsAgainstPerGame": 3.5,
+                                "evGGARatio": 1.1045,
+                                "powerPlayPercentage": "25.2",
+                                "powerPlayGoals": 87,
+                                "powerPlayGoalsAgainst": 64,
+                                "powerPlayOpportunities": 345,
+                                "penaltyKillPercentage": "79.3",
+                                "shotsPerGame": 29.425,
+                                "shotsAllowed": 27.1125,
+                                "winScoreFirst": 0.675,
+                                "winOppScoreFirst": 0.325,
+                                "winLeadFirstPer": 0.788,
+                                "winLeadSecondPer": 0.939,
+                                "winOutshootOpp": 0.652,
+                                "winOutshotByOpp": 0.36,
+                                "faceOffsTaken": 0,
+                                "faceOffsWon": 0,
+                                "faceOffsLost": 0,
+                                "faceOffWinPercentage": "0.0",
+                                "shootingPctg": 14,
+                                "savePctg": 0.871
+                            },
+                            "team": {
+                                "id": 8,
+                                "name": "Montréal Canadiens",
+                                "link": "/api/v1/teams/8"
+                            }
+                        },
+                        {
+                            "stat": {
+                                "wins": "6th",
+                                "losses": "8th",
+                                "ot": "7th",
+                                "pts": "7th",
+                                "ptPctg": "7th",
+                                "goalsPerGame": "7th",
+                                "goalsAgainstPerGame": "4th",
+                                "evGGARatio": "7th",
+                                "powerPlayPercentage": "3rd",
+                                "powerPlayGoals": "8th",
+                                "powerPlayGoalsAgainst": "1st",
+                                "powerPlayOpportunities": "17th",
+                                "penaltyKillOpportunities": "1st",
+                                "penaltyKillPercentage": "7th",
+                                "shotsPerGame": "18th",
+                                "shotsAllowed": "1st",
+                                "winScoreFirst": "7th",
+                                "winOppScoreFirst": "10th",
+                                "winLeadFirstPer": "10th",
+                                "winLeadSecondPer": "4th",
+                                "winOutshootOpp": "5th",
+                                "winOutshotByOpp": "5th",
+                                "faceOffsTaken": "7th",
+                                "faceOffsWon": "7th",
+                                "faceOffsLost": "7th",
+                                "faceOffWinPercentage": "7th",
+                                "savePctRank": "13th",
+                                "shootingPctRank": "2nd"
+                            },
+                            "team": {
+                                "id": 8,
+                                "name": "Montréal Canadiens",
+                                "link": "/api/v1/teams/8"
+                            }
+                        }
+                    ]
+                }
+            ],
+            "shortName": "Montréal",
+            "officialSiteUrl": "http://www.canadiens.com/",
+            "franchiseId": 1,
+            "active": true
+        },
+        {
+            "id": 10,
+            "name": "Toronto Maple Leafs",
+            "link": "/api/v1/teams/10",
+            "venue": {
+                "name": "Scotiabank Arena",
+                "link": "/api/v1/venues/null",
+                "city": "Toronto",
+                "timeZone": {
+                    "id": "America/Toronto",
+                    "offset": -4,
+                    "tz": "EDT"
+                }
+            },
+            "abbreviation": "TOR",
+            "teamName": "Maple Leafs",
+            "locationName": "Toronto",
+            "firstYearOfPlay": "1926",
+            "division": {
+                "id": 12,
+                "name": "Norris",
+                "link": "/api/v1/divisions/12"
+            },
+            "conference": {
+                "id": 4,
+                "name": "Clarence Campbell",
+                "link": "/api/v1/conferences/4"
+            },
+            "franchise": {
+                "franchiseId": 5,
+                "teamName": "Maple Leafs",
+                "link": "/api/v1/franchises/5"
+            },
+            "teamStats": [
+                {
+                    "type": {
+                        "displayName": "statsSingleSeason",
+                        "gameType": {
+                            "id": "R",
+                            "description": "Regular season",
+                            "postseason": false
+                        }
+                    },
+                    "splits": [
+                        {
+                            "stat": {
+                                "gamesPlayed": 80,
+                                "wins": 25,
+                                "losses": 48,
+                                "ot": 0,
+                                "pts": 57,
+                                "ptPctg": "35.6",
+                                "goalsPerGame": 3.888,
+                                "goalsAgainstPerGame": 4.825,
+                                "evGGARatio": 0.8214,
+                                "powerPlayPercentage": "18.3",
+                                "powerPlayGoals": 67,
+                                "powerPlayGoalsAgainst": 83,
+                                "powerPlayOpportunities": 366,
+                                "penaltyKillPercentage": "77.3",
+                                "shotsPerGame": 31.325,
+                                "shotsAllowed": 34.6625,
+                                "winScoreFirst": 0.324,
+                                "winOppScoreFirst": 0.302,
+                                "winLeadFirstPer": 0.5,
+                                "winLeadSecondPer": 0.864,
+                                "winOutshootOpp": 0.462,
+                                "winOutshotByOpp": 0.295,
+                                "faceOffsTaken": 0,
+                                "faceOffsWon": 0,
+                                "faceOffsLost": 0,
+                                "faceOffWinPercentage": "0.0",
+                                "shootingPctg": 12.4,
+                                "savePctg": 0.861
+                            },
+                            "team": {
+                                "id": 10,
+                                "name": "Toronto Maple Leafs",
+                                "link": "/api/v1/teams/10"
+                            }
+                        },
+                        {
+                            "stat": {
+                                "wins": "18th",
+                                "losses": "18th",
+                                "ot": "19th",
+                                "pts": "19th",
+                                "ptPctg": "19th",
+                                "goalsPerGame": "13th",
+                                "goalsAgainstPerGame": "19th",
+                                "evGGARatio": "17th",
+                                "powerPlayPercentage": "20th",
+                                "powerPlayGoals": "21st",
+                                "powerPlayGoalsAgainst": "14th",
+                                "powerPlayOpportunities": "10th",
+                                "penaltyKillOpportunities": "10th",
+                                "penaltyKillPercentage": "13th",
+                                "shotsPerGame": "10th",
+                                "shotsAllowed": "19th",
+                                "winScoreFirst": "20th",
+                                "winOppScoreFirst": "12th",
+                                "winLeadFirstPer": "20th",
+                                "winLeadSecondPer": "12th",
+                                "winOutshootOpp": "16th",
+                                "winOutshotByOpp": "16th",
+                                "faceOffsTaken": "19th",
+                                "faceOffsWon": "19th",
+                                "faceOffsLost": "19th",
+                                "faceOffWinPercentage": "19th",
+                                "savePctRank": "17th",
+                                "shootingPctRank": "13th"
+                            },
+                            "team": {
+                                "id": 10,
+                                "name": "Toronto Maple Leafs",
+                                "link": "/api/v1/teams/10"
+                            }
+                        }
+                    ]
+                }
+            ],
+            "shortName": "Toronto",
+            "officialSiteUrl": "http://www.mapleleafs.com/",
+            "franchiseId": 5,
+            "active": true
+        },
+        {
+            "id": 15,
+            "name": "Washington Capitals",
+            "link": "/api/v1/teams/15",
+            "venue": {
+                "id": 5094,
+                "name": "Capital One Arena",
+                "link": "/api/v1/venues/5094",
+                "city": "Washington",
+                "timeZone": {
+                    "id": "America/New_York",
+                    "offset": -4,
+                    "tz": "EDT"
+                }
+            },
+            "abbreviation": "WSH",
+            "teamName": "Capitals",
+            "locationName": "Washington",
+            "firstYearOfPlay": "1974",
+            "division": {
+                "id": 13,
+                "name": "Patrick",
+                "link": "/api/v1/divisions/13"
+            },
+            "conference": {
+                "id": 3,
+                "name": "Prince of Wales",
+                "link": "/api/v1/conferences/3"
+            },
+            "franchise": {
+                "franchiseId": 24,
+                "teamName": "Capitals",
+                "link": "/api/v1/franchises/24"
+            },
+            "teamStats": [
+                {
+                    "type": {
+                        "displayName": "statsSingleSeason",
+                        "gameType": {
+                            "id": "R",
+                            "description": "Regular season",
+                            "postseason": false
+                        }
+                    },
+                    "splits": [
+                        {
+                            "stat": {
+                                "gamesPlayed": 80,
+                                "wins": 50,
+                                "losses": 23,
+                                "ot": 0,
+                                "pts": 107,
+                                "ptPctg": "66.9",
+                                "goalsPerGame": 3.938,
+                                "goalsAgainstPerGame": 3.4,
+                                "evGGARatio": 1.0957,
+                                "powerPlayPercentage": "22.8",
+                                "powerPlayGoals": 82,
+                                "powerPlayGoalsAgainst": 67,
+                                "powerPlayOpportunities": 359,
+                                "penaltyKillPercentage": "81.0",
+                                "shotsPerGame": 30.3,
+                                "shotsAllowed": 27.7,
+                                "winScoreFirst": 0.786,
+                                "winOppScoreFirst": 0.447,
+                                "winLeadFirstPer": 0.879,
+                                "winLeadSecondPer": 0.95,
+                                "winOutshootOpp": 0.682,
+                                "winOutshotByOpp": 0.692,
+                                "faceOffsTaken": 0,
+                                "faceOffsWon": 0,
+                                "faceOffsLost": 0,
+                                "faceOffWinPercentage": "0.0",
+                                "shootingPctg": 13,
+                                "savePctg": 0.877
+                            },
+                            "team": {
+                                "id": 15,
+                                "name": "Washington Capitals",
+                                "link": "/api/v1/teams/15"
+                            }
+                        },
+                        {
+                            "stat": {
+                                "wins": "3rd",
+                                "losses": "3rd",
+                                "ot": "3rd",
+                                "pts": "3rd",
+                                "ptPctg": "3rd",
+                                "goalsPerGame": "10th",
+                                "goalsAgainstPerGame": "2nd",
+                                "evGGARatio": "8th",
+                                "powerPlayPercentage": "8th",
+                                "powerPlayGoals": "11th",
+                                "powerPlayGoalsAgainst": "3rd",
+                                "powerPlayOpportunities": "14th",
+                                "penaltyKillOpportunities": "7th",
+                                "penaltyKillPercentage": "4th",
+                                "shotsPerGame": "12th",
+                                "shotsAllowed": "3rd",
+                                "winScoreFirst": "3rd",
+                                "winOppScoreFirst": "2nd",
+                                "winLeadFirstPer": "4th",
+                                "winLeadSecondPer": "3rd",
+                                "winOutshootOpp": "4th",
+                                "winOutshotByOpp": "4th",
+                                "faceOffsTaken": "3rd",
+                                "faceOffsWon": "3rd",
+                                "faceOffsLost": "3rd",
+                                "faceOffWinPercentage": "3rd",
+                                "savePctRank": "10th",
+                                "shootingPctRank": "6th"
+                            },
+                            "team": {
+                                "id": 15,
+                                "name": "Washington Capitals",
+                                "link": "/api/v1/teams/15"
+                            }
+                        }
+                    ]
+                }
+            ],
+            "shortName": "Washington",
+            "officialSiteUrl": "http://www.washingtoncapitals.com/",
+            "franchiseId": 24,
+            "active": true
+        },
+        {
+            "id": 16,
+            "name": "Chicago Blackhawks",
+            "link": "/api/v1/teams/16",
+            "venue": {
+                "id": 5092,
+                "name": "United Center",
+                "link": "/api/v1/venues/5092",
+                "city": "Chicago",
+                "timeZone": {
+                    "id": "America/Chicago",
+                    "offset": -5,
+                    "tz": "CDT"
+                }
+            },
+            "abbreviation": "CHI",
+            "teamName": "Blackhawks",
+            "locationName": "Chicago",
+            "firstYearOfPlay": "1926",
+            "division": {
+                "id": 12,
+                "name": "Norris",
+                "link": "/api/v1/divisions/12"
+            },
+            "conference": {
+                "id": 4,
+                "name": "Clarence Campbell",
+                "link": "/api/v1/conferences/4"
+            },
+            "franchise": {
+                "franchiseId": 11,
+                "teamName": "Blackhawks",
+                "link": "/api/v1/franchises/11"
+            },
+            "teamStats": [
+                {
+                    "type": {
+                        "displayName": "statsSingleSeason",
+                        "gameType": {
+                            "id": "R",
+                            "description": "Regular season",
+                            "postseason": false
+                        }
+                    },
+                    "splits": [
+                        {
+                            "stat": {
+                                "gamesPlayed": 80,
+                                "wins": 39,
+                                "losses": 33,
+                                "ot": 0,
+                                "pts": 86,
+                                "ptPctg": "53.8",
+                                "goalsPerGame": 4.388,
+                                "goalsAgainstPerGame": 4.363,
+                                "evGGARatio": 0.9619,
+                                "powerPlayPercentage": "25.9",
+                                "powerPlayGoals": 85,
+                                "powerPlayGoalsAgainst": 85,
+                                "powerPlayOpportunities": 328,
+                                "penaltyKillPercentage": "77.9",
+                                "shotsPerGame": 32.4375,
+                                "shotsAllowed": 34.8875,
+                                "winScoreFirst": 0.641,
+                                "winOppScoreFirst": 0.341,
+                                "winLeadFirstPer": 0.818,
+                                "winLeadSecondPer": 0.96,
+                                "winOutshootOpp": 0.36,
+                                "winOutshotByOpp": 0.622,
+                                "faceOffsTaken": 0,
+                                "faceOffsWon": 0,
+                                "faceOffsLost": 0,
+                                "faceOffWinPercentage": "0.0",
+                                "shootingPctg": 13.5,
+                                "savePctg": 0.875
+                            },
+                            "team": {
+                                "id": 16,
+                                "name": "Chicago Blackhawks",
+                                "link": "/api/v1/teams/16"
+                            }
+                        },
+                        {
+                            "stat": {
+                                "wins": "9th",
+                                "losses": "9th",
+                                "ot": "9th",
+                                "pts": "9th",
+                                "ptPctg": "9th",
+                                "goalsPerGame": "3rd",
+                                "goalsAgainstPerGame": "16th",
+                                "evGGARatio": "15th",
+                                "powerPlayPercentage": "2nd",
+                                "powerPlayGoals": "9th",
+                                "powerPlayGoalsAgainst": "16th",
+                                "powerPlayOpportunities": "19th",
+                                "penaltyKillOpportunities": "15th",
+                                "penaltyKillPercentage": "11th",
+                                "shotsPerGame": "4th",
+                                "shotsAllowed": "21st",
+                                "winScoreFirst": "12th",
+                                "winOppScoreFirst": "7th",
+                                "winLeadFirstPer": "7th",
+                                "winLeadSecondPer": "1st",
+                                "winOutshootOpp": "20th",
+                                "winOutshotByOpp": "20th",
+                                "faceOffsTaken": "8th",
+                                "faceOffsWon": "8th",
+                                "faceOffsLost": "8th",
+                                "faceOffWinPercentage": "8th",
+                                "savePctRank": "11th",
+                                "shootingPctRank": "5th"
+                            },
+                            "team": {
+                                "id": 16,
+                                "name": "Chicago Blackhawks",
+                                "link": "/api/v1/teams/16"
+                            }
+                        }
+                    ]
+                }
+            ],
+            "shortName": "Chicago",
+            "officialSiteUrl": "http://www.chicagoblackhawks.com/",
+            "franchiseId": 11,
+            "active": true
+        },
+        {
+            "id": 17,
+            "name": "Detroit Red Wings",
+            "link": "/api/v1/teams/17",
+            "venue": {
+                "id": 5145,
+                "name": "Little Caesars Arena",
+                "link": "/api/v1/venues/5145",
+                "city": "Detroit",
+                "timeZone": {
+                    "id": "America/Detroit",
+                    "offset": -4,
+                    "tz": "EDT"
+                }
+            },
+            "abbreviation": "DET",
+            "teamName": "Red Wings",
+            "locationName": "Detroit",
+            "firstYearOfPlay": "1932",
+            "division": {
+                "id": 12,
+                "name": "Norris",
+                "link": "/api/v1/divisions/12"
+            },
+            "conference": {
+                "id": 4,
+                "name": "Clarence Campbell",
+                "link": "/api/v1/conferences/4"
+            },
+            "franchise": {
+                "franchiseId": 12,
+                "teamName": "Red Wings",
+                "link": "/api/v1/franchises/12"
+            },
+            "teamStats": [
+                {
+                    "type": {
+                        "displayName": "statsSingleSeason",
+                        "gameType": {
+                            "id": "R",
+                            "description": "Regular season",
+                            "postseason": false
+                        }
+                    },
+                    "splits": [
+                        {
+                            "stat": {
+                                "gamesPlayed": 80,
+                                "wins": 17,
+                                "losses": 57,
+                                "ot": 0,
+                                "pts": 40,
+                                "ptPctg": "25.0",
+                                "goalsPerGame": 3.325,
+                                "goalsAgainstPerGame": 5.188,
+                                "evGGARatio": 0.588,
+                                "powerPlayPercentage": "20.9",
+                                "powerPlayGoals": 79,
+                                "powerPlayGoalsAgainst": 111,
+                                "powerPlayOpportunities": 378,
+                                "penaltyKillPercentage": "71.0",
+                                "shotsPerGame": 28.5,
+                                "shotsAllowed": 32.85,
+                                "winScoreFirst": 0.313,
+                                "winOppScoreFirst": 0.146,
+                                "winLeadFirstPer": 0.478,
+                                "winLeadSecondPer": 0.714,
+                                "winOutshootOpp": 0.273,
+                                "winOutshotByOpp": 0.191,
+                                "faceOffsTaken": 0,
+                                "faceOffsWon": 0,
+                                "faceOffsLost": 0,
+                                "faceOffWinPercentage": "0.0",
+                                "shootingPctg": 11.7,
+                                "savePctg": 0.842
+                            },
+                            "team": {
+                                "id": 17,
+                                "name": "Detroit Red Wings",
+                                "link": "/api/v1/teams/17"
+                            }
+                        },
+                        {
+                            "stat": {
+                                "wins": "21st",
+                                "losses": "21st",
+                                "ot": "21st",
+                                "pts": "21st",
+                                "ptPctg": "21st",
+                                "goalsPerGame": "21st",
+                                "goalsAgainstPerGame": "21st",
+                                "evGGARatio": "21st",
+                                "powerPlayPercentage": "16th",
+                                "powerPlayGoals": "12th",
+                                "powerPlayGoalsAgainst": "21st",
+                                "powerPlayOpportunities": "8th",
+                                "penaltyKillOpportunities": "14th",
+                                "penaltyKillPercentage": "21st",
+                                "shotsPerGame": "21st",
+                                "shotsAllowed": "16th",
+                                "winScoreFirst": "21st",
+                                "winOppScoreFirst": "21st",
+                                "winLeadFirstPer": "21st",
+                                "winLeadSecondPer": "20th",
+                                "winOutshootOpp": "21st",
+                                "winOutshotByOpp": "21st",
+                                "faceOffsTaken": "21st",
+                                "faceOffsWon": "21st",
+                                "faceOffsLost": "21st",
+                                "faceOffWinPercentage": "21st",
+                                "savePctRank": "21st",
+                                "shootingPctRank": "19th"
+                            },
+                            "team": {
+                                "id": 17,
+                                "name": "Detroit Red Wings",
+                                "link": "/api/v1/teams/17"
+                            }
+                        }
+                    ]
+                }
+            ],
+            "shortName": "Detroit",
+            "officialSiteUrl": "http://www.detroitredwings.com/",
+            "franchiseId": 12,
+            "active": true
+        },
+        {
+            "id": 19,
+            "name": "St. Louis Blues",
+            "link": "/api/v1/teams/19",
+            "venue": {
+                "id": 5076,
+                "name": "Enterprise Center",
+                "link": "/api/v1/venues/5076",
+                "city": "St. Louis",
+                "timeZone": {
+                    "id": "America/Chicago",
+                    "offset": -5,
+                    "tz": "CDT"
+                }
+            },
+            "abbreviation": "STL",
+            "teamName": "Blues",
+            "locationName": "St. Louis",
+            "firstYearOfPlay": "1967",
+            "division": {
+                "id": 12,
+                "name": "Norris",
+                "link": "/api/v1/divisions/12"
+            },
+            "conference": {
+                "id": 4,
+                "name": "Clarence Campbell",
+                "link": "/api/v1/conferences/4"
+            },
+            "franchise": {
+                "franchiseId": 18,
+                "teamName": "Blues",
+                "link": "/api/v1/franchises/18"
+            },
+            "teamStats": [
+                {
+                    "type": {
+                        "displayName": "statsSingleSeason",
+                        "gameType": {
+                            "id": "R",
+                            "description": "Regular season",
+                            "postseason": false
+                        }
+                    },
+                    "splits": [
+                        {
+                            "stat": {
+                                "gamesPlayed": 80,
+                                "wins": 37,
+                                "losses": 34,
+                                "ot": 0,
+                                "pts": 83,
+                                "ptPctg": "51.9",
+                                "goalsPerGame": 3.775,
+                                "goalsAgainstPerGame": 3.638,
+                                "evGGARatio": 1.0213,
+                                "powerPlayPercentage": "21.6",
+                                "powerPlayGoals": 78,
+                                "powerPlayGoalsAgainst": 74,
+                                "powerPlayOpportunities": 362,
+                                "penaltyKillPercentage": "77.2",
+                                "shotsPerGame": 31.4375,
+                                "shotsAllowed": 32.25,
+                                "winScoreFirst": 0.595,
+                                "winOppScoreFirst": 0.349,
+                                "winLeadFirstPer": 0.81,
+                                "winLeadSecondPer": 0.852,
+                                "winOutshootOpp": 0.5,
+                                "winOutshotByOpp": 0.525,
+                                "faceOffsTaken": 0,
+                                "faceOffsWon": 0,
+                                "faceOffsLost": 0,
+                                "faceOffWinPercentage": "0.0",
+                                "shootingPctg": 12,
+                                "savePctg": 0.887
+                            },
+                            "team": {
+                                "id": 19,
+                                "name": "St. Louis Blues",
+                                "link": "/api/v1/teams/19"
+                            }
+                        },
+                        {
+                            "stat": {
+                                "wins": "12th",
+                                "losses": "11th",
+                                "ot": "12th",
+                                "pts": "12th",
+                                "ptPctg": "12th",
+                                "goalsPerGame": "14th",
+                                "goalsAgainstPerGame": "8th",
+                                "evGGARatio": "13th",
+                                "powerPlayPercentage": "14th",
+                                "powerPlayGoals": "14th",
+                                "powerPlayGoalsAgainst": "8th",
+                                "powerPlayOpportunities": "13th",
+                                "penaltyKillOpportunities": "2nd",
+                                "penaltyKillPercentage": "14th",
+                                "shotsPerGame": "9th",
+                                "shotsAllowed": "14th",
+                                "winScoreFirst": "14th",
+                                "winOppScoreFirst": "5th",
+                                "winLeadFirstPer": "9th",
+                                "winLeadSecondPer": "15th",
+                                "winOutshootOpp": "14th",
+                                "winOutshotByOpp": "14th",
+                                "faceOffsTaken": "12th",
+                                "faceOffsWon": "12th",
+                                "faceOffsLost": "12th",
+                                "faceOffWinPercentage": "12th",
+                                "savePctRank": "4th",
+                                "shootingPctRank": "16th"
+                            },
+                            "team": {
+                                "id": 19,
+                                "name": "St. Louis Blues",
+                                "link": "/api/v1/teams/19"
+                            }
+                        }
+                    ]
+                }
+            ],
+            "shortName": "St Louis",
+            "officialSiteUrl": "http://www.stlouisblues.com/",
+            "franchiseId": 18,
+            "active": true
+        },
+        {
+            "id": 20,
+            "name": "Calgary Flames",
+            "link": "/api/v1/teams/20",
+            "venue": {
+                "id": 5075,
+                "name": "Scotiabank Saddledome",
+                "link": "/api/v1/venues/5075",
+                "city": "Calgary",
+                "timeZone": {
+                    "id": "America/Denver",
+                    "offset": -6,
+                    "tz": "MDT"
+                }
+            },
+            "abbreviation": "CGY",
+            "teamName": "Flames",
+            "locationName": "Calgary",
+            "firstYearOfPlay": "1980",
+            "division": {
+                "id": 14,
+                "name": "Smythe",
+                "link": "/api/v1/divisions/14"
+            },
+            "conference": {
+                "id": 4,
+                "name": "Clarence Campbell",
+                "link": "/api/v1/conferences/4"
+            },
+            "franchise": {
+                "franchiseId": 21,
+                "teamName": "Flames",
+                "link": "/api/v1/franchises/21"
+            },
+            "teamStats": [
+                {
+                    "type": {
+                        "displayName": "statsSingleSeason",
+                        "gameType": {
+                            "id": "R",
+                            "description": "Regular season",
+                            "postseason": false
+                        }
+                    },
+                    "splits": [
+                        {
+                            "stat": {
+                                "gamesPlayed": 80,
+                                "wins": 40,
+                                "losses": 31,
+                                "ot": 0,
+                                "pts": 89,
+                                "ptPctg": "55.6",
+                                "goalsPerGame": 4.425,
+                                "goalsAgainstPerGame": 3.938,
+                                "evGGARatio": 1.2381,
+                                "powerPlayPercentage": "24.3",
+                                "powerPlayGoals": 92,
+                                "powerPlayGoalsAgainst": 101,
+                                "powerPlayOpportunities": 378,
+                                "penaltyKillPercentage": "76.2",
+                                "shotsPerGame": 34.5625,
+                                "shotsAllowed": 31.425,
+                                "winScoreFirst": 0.762,
+                                "winOppScoreFirst": 0.211,
+                                "winLeadFirstPer": 0.885,
+                                "winLeadSecondPer": 0.912,
+                                "winOutshootOpp": 0.614,
+                                "winOutshotByOpp": 0.5,
+                                "faceOffsTaken": 0,
+                                "faceOffsWon": 0,
+                                "faceOffsLost": 0,
+                                "faceOffWinPercentage": "0.0",
+                                "shootingPctg": 12.8,
+                                "savePctg": 0.875
+                            },
+                            "team": {
+                                "id": 20,
+                                "name": "Calgary Flames",
+                                "link": "/api/v1/teams/20"
+                            }
+                        },
+                        {
+                            "stat": {
+                                "wins": "5th",
+                                "losses": "6th",
+                                "ot": "6th",
+                                "pts": "6th",
+                                "ptPctg": "6th",
+                                "goalsPerGame": "2nd",
+                                "goalsAgainstPerGame": "14th",
+                                "evGGARatio": "4th",
+                                "powerPlayPercentage": "5th",
+                                "powerPlayGoals": "4th",
+                                "powerPlayGoalsAgainst": "18th",
+                                "powerPlayOpportunities": "7th",
+                                "penaltyKillOpportunities": "21st",
+                                "penaltyKillPercentage": "16th",
+                                "shotsPerGame": "1st",
+                                "shotsAllowed": "13th",
+                                "winScoreFirst": "4th",
+                                "winOppScoreFirst": "20th",
+                                "winLeadFirstPer": "3rd",
+                                "winLeadSecondPer": "9th",
+                                "winOutshootOpp": "8th",
+                                "winOutshotByOpp": "8th",
+                                "faceOffsTaken": "6th",
+                                "faceOffsWon": "6th",
+                                "faceOffsLost": "6th",
+                                "faceOffWinPercentage": "6th",
+                                "savePctRank": "12th",
+                                "shootingPctRank": "10th"
+                            },
+                            "team": {
+                                "id": 20,
+                                "name": "Calgary Flames",
+                                "link": "/api/v1/teams/20"
+                            }
+                        }
+                    ]
+                }
+            ],
+            "shortName": "Calgary",
+            "officialSiteUrl": "http://www.calgaryflames.com/",
+            "franchiseId": 21,
+            "active": true
+        },
+        {
+            "id": 22,
+            "name": "Edmonton Oilers",
+            "link": "/api/v1/teams/22",
+            "venue": {
+                "id": 5100,
+                "name": "Rogers Place",
+                "link": "/api/v1/venues/5100",
+                "city": "Edmonton",
+                "timeZone": {
+                    "id": "America/Edmonton",
+                    "offset": -6,
+                    "tz": "MDT"
+                }
+            },
+            "abbreviation": "EDM",
+            "teamName": "Oilers",
+            "locationName": "Edmonton",
+            "firstYearOfPlay": "1979",
+            "division": {
+                "id": 14,
+                "name": "Smythe",
+                "link": "/api/v1/divisions/14"
+            },
+            "conference": {
+                "id": 4,
+                "name": "Clarence Campbell",
+                "link": "/api/v1/conferences/4"
+            },
+            "franchise": {
+                "franchiseId": 25,
+                "teamName": "Oilers",
+                "link": "/api/v1/franchises/25"
+            },
+            "teamStats": [
+                {
+                    "type": {
+                        "displayName": "statsSingleSeason",
+                        "gameType": {
+                            "id": "R",
+                            "description": "Regular season",
+                            "postseason": false
+                        }
+                    },
+                    "splits": [
+                        {
+                            "stat": {
+                                "gamesPlayed": 80,
+                                "wins": 56,
+                                "losses": 17,
+                                "ot": 0,
+                                "pts": 119,
+                                "ptPctg": "74.4",
+                                "goalsPerGame": 5.325,
+                                "goalsAgainstPerGame": 3.875,
+                                "evGGARatio": 1.4854,
+                                "powerPlayPercentage": "26.3",
+                                "powerPlayGoals": 78,
+                                "powerPlayGoalsAgainst": 77,
+                                "powerPlayOpportunities": 297,
+                                "penaltyKillPercentage": "81.1",
+                                "shotsPerGame": 33.0625,
+                                "shotsAllowed": 34.725,
+                                "winScoreFirst": 0.804,
+                                "winOppScoreFirst": 0.559,
+                                "winLeadFirstPer": 0.93,
+                                "winLeadSecondPer": 0.917,
+                                "winOutshootOpp": 0.8,
+                                "winOutshotByOpp": 0.718,
+                                "faceOffsTaken": 0,
+                                "faceOffsWon": 0,
+                                "faceOffsLost": 0,
+                                "faceOffWinPercentage": "0.0",
+                                "shootingPctg": 16.1,
+                                "savePctg": 0.888
+                            },
+                            "team": {
+                                "id": 22,
+                                "name": "Edmonton Oilers",
+                                "link": "/api/v1/teams/22"
+                            }
+                        },
+                        {
+                            "stat": {
+                                "wins": "1st",
+                                "losses": "1st",
+                                "ot": "1st",
+                                "pts": "1st",
+                                "ptPctg": "1st",
+                                "goalsPerGame": "1st",
+                                "goalsAgainstPerGame": "13th",
+                                "evGGARatio": "1st",
+                                "powerPlayPercentage": "1st",
+                                "powerPlayGoals": "13th",
+                                "powerPlayGoalsAgainst": "9th",
+                                "powerPlayOpportunities": "21st",
+                                "penaltyKillOpportunities": "19th",
+                                "penaltyKillPercentage": "3rd",
+                                "shotsPerGame": "3rd",
+                                "shotsAllowed": "20th",
+                                "winScoreFirst": "2nd",
+                                "winOppScoreFirst": "1st",
+                                "winLeadFirstPer": "1st",
+                                "winLeadSecondPer": "8th",
+                                "winOutshootOpp": "1st",
+                                "winOutshotByOpp": "1st",
+                                "faceOffsTaken": "1st",
+                                "faceOffsWon": "1st",
+                                "faceOffsLost": "1st",
+                                "faceOffWinPercentage": "1st",
+                                "savePctRank": "3rd",
+                                "shootingPctRank": "1st"
+                            },
+                            "team": {
+                                "id": 22,
+                                "name": "Edmonton Oilers",
+                                "link": "/api/v1/teams/22"
+                            }
+                        }
+                    ]
+                }
+            ],
+            "shortName": "Edmonton",
+            "officialSiteUrl": "http://www.edmontonoilers.com/",
+            "franchiseId": 25,
+            "active": true
+        },
+        {
+            "id": 23,
+            "name": "Vancouver Canucks",
+            "link": "/api/v1/teams/23",
+            "venue": {
+                "id": 5073,
+                "name": "Rogers Arena",
+                "link": "/api/v1/venues/5073",
+                "city": "Vancouver",
+                "timeZone": {
+                    "id": "America/Vancouver",
+                    "offset": -7,
+                    "tz": "PDT"
+                }
+            },
+            "abbreviation": "VAN",
+            "teamName": "Canucks",
+            "locationName": "Vancouver",
+            "firstYearOfPlay": "1970",
+            "division": {
+                "id": 14,
+                "name": "Smythe",
+                "link": "/api/v1/divisions/14"
+            },
+            "conference": {
+                "id": 4,
+                "name": "Clarence Campbell",
+                "link": "/api/v1/conferences/4"
+            },
+            "franchise": {
+                "franchiseId": 20,
+                "teamName": "Canucks",
+                "link": "/api/v1/franchises/20"
+            },
+            "teamStats": [
+                {
+                    "type": {
+                        "displayName": "statsSingleSeason",
+                        "gameType": {
+                            "id": "R",
+                            "description": "Regular season",
+                            "postseason": false
+                        }
+                    },
+                    "splits": [
+                        {
+                            "stat": {
+                                "gamesPlayed": 80,
+                                "wins": 23,
+                                "losses": 44,
+                                "ot": 0,
+                                "pts": 59,
+                                "ptPctg": "36.9",
+                                "goalsPerGame": 3.525,
+                                "goalsAgainstPerGame": 4.163,
+                                "evGGARatio": 0.7198,
+                                "powerPlayPercentage": "21.2",
+                                "powerPlayGoals": 89,
+                                "powerPlayGoalsAgainst": 71,
+                                "powerPlayOpportunities": 419,
+                                "penaltyKillPercentage": "78.6",
+                                "shotsPerGame": 29.525,
+                                "shotsAllowed": 30.1875,
+                                "winScoreFirst": 0.378,
+                                "winOppScoreFirst": 0.209,
+                                "winLeadFirstPer": 0.652,
+                                "winLeadSecondPer": 0.808,
+                                "winOutshootOpp": 0.469,
+                                "winOutshotByOpp": 0.25,
+                                "faceOffsTaken": 0,
+                                "faceOffsWon": 0,
+                                "faceOffsLost": 0,
+                                "faceOffWinPercentage": "0.0",
+                                "shootingPctg": 11.9,
+                                "savePctg": 0.862
+                            },
+                            "team": {
+                                "id": 23,
+                                "name": "Vancouver Canucks",
+                                "link": "/api/v1/teams/23"
+                            }
+                        },
+                        {
+                            "stat": {
+                                "wins": "19th",
+                                "losses": "16th",
+                                "ot": "16th",
+                                "pts": "16th",
+                                "ptPctg": "16th",
+                                "goalsPerGame": "19th",
+                                "goalsAgainstPerGame": "15th",
+                                "evGGARatio": "20th",
+                                "powerPlayPercentage": "15th",
+                                "powerPlayGoals": "7th",
+                                "powerPlayGoalsAgainst": "6th",
+                                "powerPlayOpportunities": "3rd",
+                                "penaltyKillOpportunities": "3rd",
+                                "penaltyKillPercentage": "9th",
+                                "shotsPerGame": "17th",
+                                "shotsAllowed": "10th",
+                                "winScoreFirst": "17th",
+                                "winOppScoreFirst": "18th",
+                                "winLeadFirstPer": "17th",
+                                "winLeadSecondPer": "19th",
+                                "winOutshootOpp": "15th",
+                                "winOutshotByOpp": "15th",
+                                "faceOffsTaken": "17th",
+                                "faceOffsWon": "17th",
+                                "faceOffsLost": "17th",
+                                "faceOffWinPercentage": "17th",
+                                "savePctRank": "16th",
+                                "shootingPctRank": "17th"
+                            },
+                            "team": {
+                                "id": 23,
+                                "name": "Vancouver Canucks",
+                                "link": "/api/v1/teams/23"
+                            }
+                        }
+                    ]
+                }
+            ],
+            "shortName": "Vancouver",
+            "officialSiteUrl": "http://www.canucks.com/",
+            "franchiseId": 20,
+            "active": true
+        },
+        {
+            "id": 26,
+            "name": "Los Angeles Kings",
+            "link": "/api/v1/teams/26",
+            "venue": {
+                "id": 5081,
+                "name": "STAPLES Center",
+                "link": "/api/v1/venues/5081",
+                "city": "Los Angeles",
+                "timeZone": {
+                    "id": "America/Los_Angeles",
+                    "offset": -7,
+                    "tz": "PDT"
+                }
+            },
+            "abbreviation": "LAK",
+            "teamName": "Kings",
+            "locationName": "Los Angeles",
+            "firstYearOfPlay": "1967",
+            "division": {
+                "id": 14,
+                "name": "Smythe",
+                "link": "/api/v1/divisions/14"
+            },
+            "conference": {
+                "id": 4,
+                "name": "Clarence Campbell",
+                "link": "/api/v1/conferences/4"
+            },
+            "franchise": {
+                "franchiseId": 14,
+                "teamName": "Kings",
+                "link": "/api/v1/franchises/14"
+            },
+            "teamStats": [
+                {
+                    "type": {
+                        "displayName": "statsSingleSeason",
+                        "gameType": {
+                            "id": "R",
+                            "description": "Regular season",
+                            "postseason": false
+                        }
+                    },
+                    "splits": [
+                        {
+                            "stat": {
+                                "gamesPlayed": 80,
+                                "wins": 23,
+                                "losses": 49,
+                                "ot": 0,
+                                "pts": 54,
+                                "ptPctg": "33.8",
+                                "goalsPerGame": 3.55,
+                                "goalsAgainstPerGame": 4.863,
+                                "evGGARatio": 0.7673,
+                                "powerPlayPercentage": "17.5",
+                                "powerPlayGoals": 69,
+                                "powerPlayGoalsAgainst": 103,
+                                "powerPlayOpportunities": 394,
+                                "penaltyKillPercentage": "71.9",
+                                "shotsPerGame": 30.3,
+                                "shotsAllowed": 32.625,
+                                "winScoreFirst": 0.467,
+                                "winOppScoreFirst": 0.18,
+                                "winLeadFirstPer": 0.667,
+                                "winLeadSecondPer": 0.875,
+                                "winOutshootOpp": 0.4,
+                                "winOutshotByOpp": 0.262,
+                                "faceOffsTaken": 0,
+                                "faceOffsWon": 0,
+                                "faceOffsLost": 0,
+                                "faceOffWinPercentage": "0.0",
+                                "shootingPctg": 11.7,
+                                "savePctg": 0.851
+                            },
+                            "team": {
+                                "id": 26,
+                                "name": "Los Angeles Kings",
+                                "link": "/api/v1/teams/26"
+                            }
+                        },
+                        {
+                            "stat": {
+                                "wins": "20th",
+                                "losses": "20th",
+                                "ot": "20th",
+                                "pts": "20th",
+                                "ptPctg": "20th",
+                                "goalsPerGame": "18th",
+                                "goalsAgainstPerGame": "20th",
+                                "evGGARatio": "18th",
+                                "powerPlayPercentage": "21st",
+                                "powerPlayGoals": "20th",
+                                "powerPlayGoalsAgainst": "20th",
+                                "powerPlayOpportunities": "5th",
+                                "penaltyKillOpportunities": "11th",
+                                "penaltyKillPercentage": "20th",
+                                "shotsPerGame": "13th",
+                                "shotsAllowed": "15th",
+                                "winScoreFirst": "18th",
+                                "winOppScoreFirst": "19th",
+                                "winLeadFirstPer": "16th",
+                                "winLeadSecondPer": "11th",
+                                "winOutshootOpp": "18th",
+                                "winOutshotByOpp": "18th",
+                                "faceOffsTaken": "20th",
+                                "faceOffsWon": "20th",
+                                "faceOffsLost": "20th",
+                                "faceOffWinPercentage": "20th",
+                                "savePctRank": "18th",
+                                "shootingPctRank": "18th"
+                            },
+                            "team": {
+                                "id": 26,
+                                "name": "Los Angeles Kings",
+                                "link": "/api/v1/teams/26"
+                            }
+                        }
+                    ]
+                }
+            ],
+            "shortName": "Los Angeles",
+            "officialSiteUrl": "http://www.lakings.com/",
+            "franchiseId": 14,
+            "active": true
+        },
+        {
+            "id": 31,
+            "name": "Minnesota North Stars",
+            "link": "/api/v1/teams/31",
+            "abbreviation": "MNS",
+            "teamName": "North Stars",
+            "locationName": "Minnesota",
+            "firstYearOfPlay": "1967",
+            "division": {
+                "id": 12,
+                "name": "Norris",
+                "link": "/api/v1/divisions/12"
+            },
+            "conference": {
+                "id": 4,
+                "name": "Clarence Campbell",
+                "link": "/api/v1/conferences/4"
+            },
+            "franchise": {
+                "franchiseId": 15,
+                "teamName": "Stars",
+                "link": "/api/v1/franchises/15"
+            },
+            "teamStats": [
+                {
+                    "type": {
+                        "displayName": "statsSingleSeason",
+                        "gameType": {
+                            "id": "R",
+                            "description": "Regular season",
+                            "postseason": false
+                        }
+                    },
+                    "splits": [
+                        {
+                            "stat": {
+                                "gamesPlayed": 80,
+                                "wins": 38,
+                                "losses": 33,
+                                "ot": 0,
+                                "pts": 85,
+                                "ptPctg": "53.1",
+                                "goalsPerGame": 4.088,
+                                "goalsAgainstPerGame": 3.813,
+                                "evGGARatio": 1.0859,
+                                "powerPlayPercentage": "24.4",
+                                "powerPlayGoals": 89,
+                                "powerPlayGoalsAgainst": 80,
+                                "powerPlayOpportunities": 365,
+                                "penaltyKillPercentage": "79.3",
+                                "shotsPerGame": 32.0125,
+                                "shotsAllowed": 33.6125,
+                                "winScoreFirst": 0.628,
+                                "winOppScoreFirst": 0.297,
+                                "winLeadFirstPer": 0.815,
+                                "winLeadSecondPer": 0.939,
+                                "winOutshootOpp": 0.615,
+                                "winOutshotByOpp": 0.452,
+                                "faceOffsTaken": 0,
+                                "faceOffsWon": 0,
+                                "faceOffsLost": 0,
+                                "faceOffWinPercentage": "0.0",
+                                "shootingPctg": 12.8,
+                                "savePctg": 0.887
+                            },
+                            "team": {
+                                "id": 31,
+                                "name": "Minnesota North Stars",
+                                "link": "/api/v1/teams/31"
+                            }
+                        },
+                        {
+                            "stat": {
+                                "wins": "10th",
+                                "losses": "10th",
+                                "ot": "10th",
+                                "pts": "10th",
+                                "ptPctg": "10th",
+                                "goalsPerGame": "9th",
+                                "goalsAgainstPerGame": "11th",
+                                "evGGARatio": "10th",
+                                "powerPlayPercentage": "4th",
+                                "powerPlayGoals": "6th",
+                                "powerPlayGoalsAgainst": "12th",
+                                "powerPlayOpportunities": "11th",
+                                "penaltyKillOpportunities": "16th",
+                                "penaltyKillPercentage": "8th",
+                                "shotsPerGame": "6th",
+                                "shotsAllowed": "18th",
+                                "winScoreFirst": "8th",
+                                "winOppScoreFirst": "15th",
+                                "winLeadFirstPer": "8th",
+                                "winLeadSecondPer": "5th",
+                                "winOutshootOpp": "7th",
+                                "winOutshotByOpp": "7th",
+                                "faceOffsTaken": "10th",
+                                "faceOffsWon": "10th",
+                                "faceOffsLost": "10th",
+                                "faceOffWinPercentage": "10th",
+                                "savePctRank": "5th",
+                                "shootingPctRank": "11th"
+                            },
+                            "team": {
+                                "id": 31,
+                                "name": "Minnesota North Stars",
+                                "link": "/api/v1/teams/31"
+                            }
+                        }
+                    ]
+                }
+            ],
+            "shortName": "Minnesota",
+            "franchiseId": 15,
+            "active": false
+        }
+    ]
+}
