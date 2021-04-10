@@ -10,10 +10,13 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      # - name: Checkout
-      - uses: actions/checkout@v2
-      # - name Setup Node
-      - uses: actions/setup-node@v1
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Setup Node
+        uses: actions/setup-node@v1
       - run: yarn
       - run: node hockey_data.js
-      
+      - uses: mikeal/publish-to-github-action@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BRANCH_NAME: 'main' #optional defaults to master
