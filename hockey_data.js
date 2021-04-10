@@ -57,7 +57,7 @@ async function allSeasons() {
             console.log(`NHL/teams/${years}`);
             let filenames = fs.readdirSync(`NHL/teams/${years}`)
             if (filenames.length == 0 ) {
-                fs.writeFileSync(path.join(folder,`${date}.json`), JSON.stringify(data));
+                fs.writeFileSync(path.join(folder,`${date}.json`), JSON.stringify(data, null, 4));
             }
             filenames.forEach((file) => {
                 if (file) {
@@ -66,7 +66,7 @@ async function allSeasons() {
                         console.log('change');
                         console.log(hash(JSON.parse(saved_data)));
                         console.log(hash(data))
-                        fs.writeFileSync(path.join(folder,`${date}.json`), JSON.stringify(data));
+                        fs.writeFileSync(path.join(folder,`${date}.json`), JSON.stringify(data, null, 4));
                     } else {
                         console.log('it matched')
                     }
